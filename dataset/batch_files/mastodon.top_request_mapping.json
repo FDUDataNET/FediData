@@ -1,0 +1,2532 @@
+{
+  "request-1": {
+    "instance": "mastodon.top",
+    "tweet_index": 0,
+    "tweet": "🇪🇸🇪🇺 Espagne: le gouvernement Sanchez fragilisé par le scandale sexuel qui frappe le leader du parti Sumar  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Espagne #Spain #ÍñigoErrejón #Sumar"
+  },
+  "request-2": {
+    "instance": "mastodon.top",
+    "tweet_index": 1,
+    "tweet": "Il ne reste que 10 jours avant la #presidentielle américaine. Saurez-vous répondre à notre quiz #politique ? https://www.election-politique.com/quiz.php?display=Q #politics #USA #Trump2024 #Harris2024"
+  },
+  "request-3": {
+    "instance": "mastodon.top",
+    "tweet_index": 2,
+    "tweet": "🇦🇫 Interdiction totale des images d'êtres vivants, presse menacée  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Afghanistan #Taliban"
+  },
+  "request-4": {
+    "instance": "mastodon.top",
+    "tweet_index": 3,
+    "tweet": "🇬🇧 Londres : des milliers de manifestants défilent en soutien au militant d’extrême-droite Tommy Robinson  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Londres #London #RoyaumeUni #UnitedKingdom #manifestation #TommyRobinson"
+  },
+  "request-5": {
+    "instance": "mastodon.top",
+    "tweet_index": 4,
+    "tweet": "🇦🇺 Résultats partiels des élections législatives du 26 octobre au #Queensland, état du nord-est australien https://www.election-politique.com/resultats.php?k=AU&kr=AUQLD&pol=r2&num=14518 #Australie #Australia #Legislatives2024 #election2024 #elections2024 #electionResults #politics"
+  },
+  "request-6": {
+    "instance": "mastodon.top",
+    "tweet_index": 5,
+    "tweet": "🇰🇮 Résultats non définitifs de l'élection présidentielle du 25 octobre à #Kiribati https://www.election-politique.com/resultats.php?num=14585&k=KI&kr=&pol=p1 #Presidentielle #election2024 #elections2024 #electionResults #politics"
+  },
+  "request-7": {
+    "instance": "mastodon.top",
+    "tweet_index": 6,
+    "tweet": "🇬🇪 La Géorgie se rend aux urnes pour des législatives vues comme un référendum sur son avenir européen  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Georgie #Georgia #Legislatives2024 #election2024 #elections2024"
+  },
+  "request-8": {
+    "instance": "mastodon.top",
+    "tweet_index": 7,
+    "tweet": "🇬🇧 Le Commonwealth admet que 'le moment est venu' de discuter de l’héritage de l’esclavage  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Commonwealth #CommonwealthSummit"
+  },
+  "request-9": {
+    "instance": "mastodon.top",
+    "tweet_index": 8,
+    "tweet": "🇺🇸 Enfants maltraités dans des pensionnats | Joe Biden présente des excuses historiques aux Autochtones  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #USA #JoeBiden #Biden"
+  },
+  "request-10": {
+    "instance": "mastodon.top",
+    "tweet_index": 9,
+    "tweet": "🇦🇷 Le gouvernement Milei va mettre aux enchères 400 immeubles  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Argentine #Argentina #Milei"
+  },
+  "request-11": {
+    "instance": "mastodon.top",
+    "tweet_index": 10,
+    "tweet": "🇲🇸🇬🇧 Reuben Meade (70 ans) nouveau Premier Ministre désignéde #Monserrat . Consultez sa bio et la galerie de portraits de ses prédécesseurs depuis 1960 https://www.election-politique.com/region.php?k=GB&kr=GBMS #ReubenMeade #PremierMinistre #PrimeMinister #politics"
+  },
+  "request-12": {
+    "instance": "mastodon.top",
+    "tweet_index": 11,
+    "tweet": "🪦 Ces politiques qui nous ont quitté hier 25 octobre 2024 😢 https://www.election-politique.com/index.php?display=U#necrologie#international #politique #politics #mort #death"
+  },
+  "request-13": {
+    "instance": "mastodon.top",
+    "tweet_index": 12,
+    "tweet": "🇮🇪🇪🇺 Accueillir ou rejeter : Le défi irlandais face à l'afflux des réfugiés ukrainiens https://www.election-politique.com/election.php?ref=1095 #Irlande #Ireland #Ukraine #GuerreEnUkraine #UkraineWar #politique #politics"
+  },
+  "request-14": {
+    "instance": "mastodon.top",
+    "tweet_index": 13,
+    "tweet": "🍼🪦 26 octobre, un jour, une vie, un décès https://www.election-politique.com/election.php?ref=1094#Anniversaire #Birthday #26Octobre #26Ottobre #26deOctubre #October26 #26Oktober #EvoMorales #RohTaewoo"
+  },
+  "request-15": {
+    "instance": "mastodon.top",
+    "tweet_index": 14,
+    "tweet": "🇮🇱🇮🇷 Israël frappe l’Iran | « Il n’y avait aucun doute qu’il y aurait des représailles » https://www.election-politique.com/index.php?display=M #VuDansLaPresse #newspaper #Politique #politics #International #Israel #Iran"
+  },
+  "request-16": {
+    "instance": "mastodon.top",
+    "tweet_index": 15,
+    "tweet": "🇫🇷🇪🇺 Affaire Andy Kerbrat : l’opposition dénonce le «silence assourdissant» de la maire de Nantes https://www.election-politique.com/index.php?display=M #VuDansLaPresse #newspaper #Politique #politics #International #AndyKerbrat #Nantes #JohannaRolland #PS #NFP  @Johanna_Rolland #silence"
+  },
+  "request-17": {
+    "instance": "mastodon.top",
+    "tweet_index": 16,
+    "tweet": "🇷🇺 Un serrage de vis historique en Russie : la Banque centrale relève à 21% son taux directeur, au plus haut depuis 2003  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Russie #Russia #BCR"
+  },
+  "request-18": {
+    "instance": "mastodon.top",
+    "tweet_index": 17,
+    "tweet": "🇲🇸🇬🇧 Résultats des élections législatives du 24 octobre à #Montserrat, territoire d'outre-mer britannique des Caraïbes https://www.election-politique.com/resultats.php?num=14559&k=GB&kr=GBMS&pol=r2 #Legislatives2024 #election2024 #elections2024 #electionresults #politics"
+  },
+  "request-19": {
+    "instance": "mastodon.top",
+    "tweet_index": 18,
+    "tweet": "🇹🇷 Turquie : le PKK revendique l'attentat meurtrier près d'Ankara https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Turquie #Turkiye #Ankara #PKK"
+  },
+  "request-20": {
+    "instance": "mastodon.top",
+    "tweet_index": 19,
+    "tweet": "🇼🇸 Sommet du Commonwealth à Samoa : Les dirigeants défient le Royaume-Uni sur les réparations de l'esclavage  https://www.election-politique.com/index.php?display=M#VuDansLaPresse #newspaper #politique #politics #international #Samoa #Commonwealth #CommonwealthSummit"
+  },
+  "request-21": {
+    "instance": "mastodon.top",
+    "tweet_index": 20,
+    "tweet": "Bonne journée à tous !"
+  },
+  "request-22": {
+    "instance": "mastodon.top",
+    "tweet_index": 21,
+    "tweet": "Russian Idol.#CroisonsLes"
+  },
+  "request-23": {
+    "instance": "mastodon.top",
+    "tweet_index": 22,
+    "tweet": "Après Musk pour Twitter, Zuckerberg veut rendre la certification Facebook et Instagram payante. #CroisonsLes #ShowMeTheMoney"
+  },
+  "request-24": {
+    "instance": "mastodon.top",
+    "tweet_index": 23,
+    "tweet": "Best of #CroisonsLes 2022.😜"
+  },
+  "request-25": {
+    "instance": "mastodon.top",
+    "tweet_index": 24,
+    "tweet": "Jour J.#CroisonsLes #ARGFRA #FRAARG"
+  },
+  "request-26": {
+    "instance": "mastodon.top",
+    "tweet_index": 25,
+    "tweet": "Pendant ce temps-là, sur Twitter… le patron suspend les comptes de journalistes. #CroisonsLes"
+  },
+  "request-27": {
+    "instance": "mastodon.top",
+    "tweet_index": 26,
+    "tweet": "⚽️🇫🇷 ALLEZ LES BLEUS !!!!  🇫🇷⚽️ #ENGFRA #ANGFRA #CroisonsLes"
+  },
+  "request-28": {
+    "instance": "mastodon.top",
+    "tweet_index": 27,
+    "tweet": "Messi. #CroisonsLes #ARGAUS"
+  },
+  "request-29": {
+    "instance": "mastodon.top",
+    "tweet_index": 28,
+    "tweet": "Check, mate.#CroisonsLes #ARGKSA"
+  },
+  "request-30": {
+    "instance": "mastodon.top",
+    "tweet_index": 29,
+    "tweet": "#RIPTwitter"
+  },
+  "request-31": {
+    "instance": "mastodon.top",
+    "tweet_index": 30,
+    "tweet": "Bonjour à tous !Si quelqu’un s’y connaît en PC (je suis sur be Mac…) :Est-ce que vous avez une idée de ce qui peut arriver à l’ordi de ma fille ? Il est mort ? :"
+  },
+  "request-32": {
+    "instance": "mastodon.top",
+    "tweet_index": 31,
+    "tweet": "Et bonjour à tous !#CroisonsLes"
+  },
+  "request-33": {
+    "instance": "mastodon.top",
+    "tweet_index": 32,
+    "tweet": "#twittermigration"
+  },
+  "request-34": {
+    "instance": "mastodon.top",
+    "tweet_index": 33,
+    "tweet": "Ma thèse et moi / je tombe sur des remèdes contre la suffocation de la matrice, expression désuète et sexiste aujourd’hui bien sûr, mais avec des originalités : Dioscoride conseillait les ongles odorants parfumés comme remède et des punaises de lit dans le nez. Le bitume également. L’urine aussi. Voilà vous ne saviez pas quoi faire de tout cela, eh bien, on savait mieux que vous avant. 🤪 #nepastesterchezsoi"
+  },
+  "request-35": {
+    "instance": "mastodon.top",
+    "tweet_index": 34,
+    "tweet": "Call for papers - appel à publications dans la revue Ethics, Medicine, and Public Health Online journal. Détails dans l’image ci-dessous : special issue on Equity and HealthLien des guidelines : https://www.sciencedirect.com/journal/ethics-medicine-and-public-health/publish/guide-for-authors"
+  },
+  "request-36": {
+    "instance": "mastodon.top",
+    "tweet_index": 35,
+    "tweet": "J'ai le plaisir de participer à la journée d'études et de réflexions autour de la (re)-médiation du patrimoine de la BNF pour y parler des illustrations botaniques. 🌱🪷🌷Le 20 décembre 2023 de 9h à 17h à la BnF Site François Mitterrand, salle 70. Ouvert au public."
+  },
+  "request-37": {
+    "instance": "mastodon.top",
+    "tweet_index": 36,
+    "tweet": "🌱  Et le 7/11/23, je présente :« De viles racines à panacée : recherche-action souterraine », une proposition anthropocentrique vs écosophique lors de la JE - Faire relation avec les mauvaises herbes à l’université Bordeaux Montaigne. Lors de cette intervention, l’artiste et chercheuse en histoire propose une recherche participative, où la donnée récoltée intègre un réseau d’échanges collectifs d’idées. En l’espèce, la donnée est la racine, organe du végétal qu’on voit peu etqu’on ignore."
+  },
+  "request-38": {
+    "instance": "mastodon.top",
+    "tweet_index": 37,
+    "tweet": "🌱 À jeudi pour parler de la figure anthromorphique de la racine à la racine-objet entre XVIe et XVIIIe siècle 🍃 JE Concevoir le non humain 🌿 9/11/23 à l’université Bordeaux Montaigne / Maison de la recherche Salle 1."
+  },
+  "request-39": {
+    "instance": "mastodon.top",
+    "tweet_index": 38,
+    "tweet": "Suggérer vos meilleurs podcasts ici. #suggestionPodcastSuggest your best podcasts here."
+  },
+  "request-40": {
+    "instance": "mastodon.top",
+    "tweet_index": 39,
+    "tweet": "#caturday Not my cat but a cat anyway. He was watching us eat with this look “I’m gonna lick your plate”. His name is Maximus."
+  },
+  "request-41": {
+    "instance": "mastodon.top",
+    "tweet_index": 40,
+    "tweet": "#portfolioday : cette année, je continue ma pratique artistique. Diplômée d’une ESAD en 2020, je n’ai pas eu trop le temps de poursuivre mes investigations à cause de la thèse mais … En novembre 2023, expo dans une galerie, en mars 2024, résidence d’artiste, expo et conférence 🥰🌱📍 Infos : https://www.tassaneealleau.com"
+  },
+  "request-42": {
+    "instance": "mastodon.top",
+    "tweet_index": 41,
+    "tweet": "Sinon j’ai testé pour vous, avoir 38 de fièvre sous 38 degrés à Rome. Ça va mieux ce matin mais c’était l’enfer de Dante."
+  },
+  "request-43": {
+    "instance": "mastodon.top",
+    "tweet_index": 42,
+    "tweet": "Merci pour les repartages."
+  },
+  "request-44": {
+    "instance": "mastodon.top",
+    "tweet_index": 43,
+    "tweet": "Just a random italian street"
+  },
+  "request-45": {
+    "instance": "mastodon.top",
+    "tweet_index": 44,
+    "tweet": "🌱🌱🌱 C’est la saison des publications …☀️☀️☀️ L’article que j’ai écrit pour la revue Les Cahiers du Genre numéro 74 (2023/1) est paru : « Les femmes et les plantes ou le pouvoir paradoxal du souterrain et du terrestre. Une relecture du mythe Déméter-Koré à l’aube du Grand Siècle (xviie siècle) ». Merci beaucoup aux éditrices qui ont fait un très beau travail 👏 https://www.cairn.info/revue-cahiers-du-genre-2023-1-page-127.htm"
+  },
+  "request-46": {
+    "instance": "mastodon.top",
+    "tweet_index": 45,
+    "tweet": "J’ai beaucoup ri. Je suis la meuf qui s’est déjà pris 3-4 poteaux dans sa vie. 😂 littéralement pas figurativement (quoique)"
+  },
+  "request-47": {
+    "instance": "mastodon.top",
+    "tweet_index": 46,
+    "tweet": "Celui où celle qui fabrique cette potion magique malgache est une personne INCROYABLE. parce que c’est vraiment une potion magique. Comme le baume tigre."
+  },
+  "request-48": {
+    "instance": "mastodon.top",
+    "tweet_index": 47,
+    "tweet": "Belle année à vous ! 🧧💙"
+  },
+  "request-49": {
+    "instance": "mastodon.top",
+    "tweet_index": 48,
+    "tweet": "Hello 🪷📍📆 Événement à Paris pour le Nouvel An Lunaire. 🐇Dimanche 22 janvier 2023, je serai avec mes illustrations et dessins au HOBA, dans le 17e, à Paris entre 14h et 19h [43 rue Bernard Buffet] avec l'association Asiattitudes. Il y aura un Asian Market de créateurs et créatrices ainsi qu'une table ronde sur la gastronomie asiatique de 16h à 17h et une expo photos réalisée par des membres de l'association.Parisien-nes, venez nous voir et me faire un petit coucou ✨️💙#art #artiste #expo"
+  },
+  "request-50": {
+    "instance": "mastodon.top",
+    "tweet_index": 49,
+    "tweet": "On a parlé hier de l'intelligence artificielle sur Twitch, le replay est ici https://www.twitch.tv/historychroniq/v/1698223490?sr=a&t=7205s- la loi protège des œuvres mais pas des manières de créer- comment font les profs pour voir si Chat GPT a été utilisé ?- l'AI pour la santé. Autant de sujets qui me fascinent mais je m'avoue complètement inculte sur le thème éthique, ainsi cette réflexion sur l'art est intéressante : https://mastodon.cipherbliss.com/@tykayn/109641546227002647"
+  },
+  "request-51": {
+    "instance": "mastodon.top",
+    "tweet_index": 50,
+    "tweet": "L'image du jour.Jsais pas pourquoi, elle revient à peu près tous les 15 jours dans mes recherches quand il faut expliquer ce que J'étudie. 😅"
+  },
+  "request-52": {
+    "instance": "mastodon.top",
+    "tweet_index": 51,
+    "tweet": "À réécouter :Histoire des \"Indiens d'Amérique\"https://www.radiofrance.fr/franceculture/podcasts/serie-histoire-des-indiens-d-amerique"
+  },
+  "request-53": {
+    "instance": "mastodon.top",
+    "tweet_index": 52,
+    "tweet": "Joyeux Noël #histodon #artists & #streameusefr"
+  },
+  "request-54": {
+    "instance": "mastodon.top",
+    "tweet_index": 53,
+    "tweet": "\"Être au plus près de la vérité\": à lire sur BFMTV, comment \"Le Consentement\" a été adapté au #cinéma. Avec le témoignage de la réalisatrice Vanessa Filho et de l'actrice Kim Higelin👉 https://www.bfmtv.com/people/cinema/etre-au-plus-pres-de-la-verite-comment-le-consentement-a-ete-adapte-au-cinema_AN-202310110262.html"
+  },
+  "request-55": {
+    "instance": "mastodon.top",
+    "tweet_index": 54,
+    "tweet": "\"Dans le film de créatures, on n'a pas le droit d'en louper une. Tu peux réussir 17 créatures, mais si tu rates la 18e, tout s'effondre, c'est catastrophique\": \"Le Règne animal\", le film qui veut réveiller le #cinéma fantastique français👉 https://www.bfmtv.com/people/cinema/le-regne-animal-le-film-fantastique-avec-roman-duris-qui-reveille-le-cinema-francais_AV-202310040132.html"
+  },
+  "request-56": {
+    "instance": "mastodon.top",
+    "tweet_index": 55,
+    "tweet": "Vu \"Le Garçon et le Héron\", extraordinaire réussite de Hayao Miyazaki qui convoque toutes ses obsessions pour réinventer son cinéma. Son film le plus expérimental et le plus cruel avec des plans complètement dingues #cinéma"
+  },
+  "request-57": {
+    "instance": "mastodon.top",
+    "tweet_index": 56,
+    "tweet": "Riad Sattouf sort ce jeudi 5 octobre une édition intégrale de \"L’Arabe du futur\" (1080 pages, 125 euros) https://facebook.com/story.php?story_fbid=pfbid024aWYjoTWiMPu5fabV9iptezn2MNVBFGhrZzFGmj8Wy1HCsQXSs8rfRtttKA4BCYWl&id=100044370371893"
+  },
+  "request-58": {
+    "instance": "mastodon.top",
+    "tweet_index": 57,
+    "tweet": "Gérard Depardieu, accusé de viols et d'agressions sexuelles, ne participera pas au prochain film de Michel Hazanavicius \"La plus précieuse des marchandises\" #cinéma👉 https://www.bfmtv.com/people/cinema/gerard-depardieu-accuse-de-viols-et-agressions-sexuelles-ne-participera-pas-au-prochain-film-de-michel-hazanavicius_AN-202310030066.html"
+  },
+  "request-59": {
+    "instance": "mastodon.top",
+    "tweet_index": 58,
+    "tweet": "Mort de Michael Gambon, le second interprète de Dumbledore dans la franchise \"Harry Potter\" #cinéma 👉 https://www.bfmtv.com/people/cinema/mort-de-michael-gambon-qui-incarnait-dumbledore-dans-harry-potter_AN-202309280550.html"
+  },
+  "request-60": {
+    "instance": "mastodon.top",
+    "tweet_index": 59,
+    "tweet": "\"On n'est pas les champions du genre\" : à lire sur BFMTV, comment la comédie romantique made in France se renouvelle avec le film \"Nouveau départ\" et la série \"Irrésistible\". Feat. notamment les analyses de Franck Dubosc et Karin Viard #cinéma👉 https://www.bfmtv.com/people/cinema/nouveau-depart-irresistible-comment-la-comedie-romantique-made-in-france-bouscule-les-codes-du-genre_AN-202309270340.html"
+  },
+  "request-61": {
+    "instance": "mastodon.top",
+    "tweet_index": 60,
+    "tweet": "Incroyable chef d’œuvre. Scorsese et ses trois acteurs au sommet avec un final aussi émouvant qu'inoubliable. Le chaînon manquant entre \"La Porte du paradis\" de Cimino et \"Buffalo Bill et les Indiens\" d'Altman"
+  },
+  "request-62": {
+    "instance": "mastodon.top",
+    "tweet_index": 61,
+    "tweet": "La Bibliothèque municipale de Lyon organise du 12 octobre 2023 au 3 février 2024 une #exposition consacrée au grand Willem"
+  },
+  "request-63": {
+    "instance": "mastodon.top",
+    "tweet_index": 62,
+    "tweet": "Mœbius Production lance une nouvelle collection d'artbooks dédiés aux personnages emblématiques de Mœbius. Le premier livre, consacré à Arzak, sort le 25 octobre (176 pages, 250 x 310 mm, 47 euros) #BD #bandedessinée"
+  },
+  "request-64": {
+    "instance": "mastodon.top",
+    "tweet_index": 63,
+    "tweet": "\"La Passion de Dodin Bouffant\" représentera la France aux Oscars 2024 https://www.instagram.com/p/CxdiNG2tnuV/?igshid=MzRlODBiNWFlZA=="
+  },
+  "request-65": {
+    "instance": "mastodon.top",
+    "tweet_index": 64,
+    "tweet": "2023 a été jusqu'à présent assez moyenne en #BD mais en octobre sortent 3 des meilleures BD de l'année #bandedessinee"
+  },
+  "request-66": {
+    "instance": "mastodon.top",
+    "tweet_index": 65,
+    "tweet": "Ahurissante histoire : les éditions Fantagraphics ont porté plainte contre Emil Ferris (qui ne voulait plus être publiée chez eux) #BD #bandedessinée 👉 https://www.casemine.com/judgement/us/631d647eded8522b94ff8aec/amp"
+  },
+  "request-67": {
+    "instance": "mastodon.top",
+    "tweet_index": 66,
+    "tweet": "La beauté du dessin de Dominique Bertail (\"Madeleine, résistante\" tome 2, sortie prévue le 29 septembre chez Dupuis) #BD #bandedessinée"
+  },
+  "request-68": {
+    "instance": "mastodon.top",
+    "tweet_index": 67,
+    "tweet": "\"On n'est pas désirable\": Muriel Robin dénonce avec force l'homophobie dans le cinéma👉 https://www.bfmtv.com/people/on-n-est-pas-desirable-muriel-robin-denonce-avec-force-l-homophobie-dans-le-cinema_AN-202309170169.html"
+  },
+  "request-69": {
+    "instance": "mastodon.top",
+    "tweet_index": 68,
+    "tweet": "\"On forcera le passage s'il le faut, mais on sera là!\": comment les artistes trans s’imposent en #BD. Feat. les analyses de Jul Maroh, Sabrina Calvo, Helsenn, Aloïs, Colin Atthar, Joanna Foliveli👉 https://www.bfmtv.com/people/bandes-dessinees/un-tabou-s-est-leve-comment-les-artistes-trans-emergent-en-bd_AN-202309160125.html"
+  },
+  "request-70": {
+    "instance": "mastodon.top",
+    "tweet_index": 69,
+    "tweet": "\"Anatomie d'une chute\": la palme d'or de Cannes cartonne au box-office français et à l'international #cinéma 👉 https://bfmtv.com/people/cinema/anatomie-d-une-chute-la-palme-d-or-de-cannes-cartonne-au-box-office-francais-et-a-l-international_AN-202309150802.html"
+  },
+  "request-71": {
+    "instance": "mastodon.top",
+    "tweet_index": 70,
+    "tweet": "A lire demain sur le site de BFMTV : une longue enquête sur l'essor des auteurs et autrices trans (feat. notamment les analyses de Jul Maro & Sabrina Calvo à l'occasion de la sortie de leur excellent album \"Hacker la peau aux éditions du Lombard) #BD #bandedessinee"
+  },
+  "request-72": {
+    "instance": "mastodon.top",
+    "tweet_index": 71,
+    "tweet": "La rencontre des goats > Alain Chabat rejoint la saison 2 de \"En Place\" de Jean-Pascal Zadi #série #humour 👉 https://bfmtv.com/people/series/alain-chabat-rejoint-la-saison-2-de-en-place-de-jean-pascal-zadi_AN-202309150552.html"
+  },
+  "request-73": {
+    "instance": "mastodon.top",
+    "tweet_index": 72,
+    "tweet": "#Netflix raconte les mille vies de Bernard Tapie en #série: \"C'est l'histoire d'un homme qui vendait des télévisions, qui voulait entrer dedans et qui a fini par devenir la télévision\"👉 https://www.bfmtv.com/people/series/netflix-raconte-les-mille-vies-de-bernard-tapie-en-serie-il-voulait-construire-sa-propre-legende_AN-202309130042.html"
+  },
+  "request-74": {
+    "instance": "mastodon.top",
+    "tweet_index": 73,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-75": {
+    "instance": "mastodon.top",
+    "tweet_index": 74,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-76": {
+    "instance": "mastodon.top",
+    "tweet_index": 75,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-77": {
+    "instance": "mastodon.top",
+    "tweet_index": 76,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-78": {
+    "instance": "mastodon.top",
+    "tweet_index": 77,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-79": {
+    "instance": "mastodon.top",
+    "tweet_index": 78,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-80": {
+    "instance": "mastodon.top",
+    "tweet_index": 79,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-81": {
+    "instance": "mastodon.top",
+    "tweet_index": 80,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-82": {
+    "instance": "mastodon.top",
+    "tweet_index": 81,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-83": {
+    "instance": "mastodon.top",
+    "tweet_index": 82,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-84": {
+    "instance": "mastodon.top",
+    "tweet_index": 83,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-85": {
+    "instance": "mastodon.top",
+    "tweet_index": 84,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-86": {
+    "instance": "mastodon.top",
+    "tweet_index": 85,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-87": {
+    "instance": "mastodon.top",
+    "tweet_index": 86,
+    "tweet": "Bonjour les Mammouths !l'amandier a donné une unique amande. c'est un début plutôt timide...#fleuristonfil"
+  },
+  "request-88": {
+    "instance": "mastodon.top",
+    "tweet_index": 87,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-89": {
+    "instance": "mastodon.top",
+    "tweet_index": 88,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-90": {
+    "instance": "mastodon.top",
+    "tweet_index": 89,
+    "tweet": "Bonjour les mammouths !#fleuristonfil"
+  },
+  "request-91": {
+    "instance": "mastodon.top",
+    "tweet_index": 90,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-92": {
+    "instance": "mastodon.top",
+    "tweet_index": 91,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-93": {
+    "instance": "mastodon.top",
+    "tweet_index": 92,
+    "tweet": "Bonjour les Mammouths !#fleuristonfil"
+  },
+  "request-94": {
+    "instance": "mastodon.top",
+    "tweet_index": 93,
+    "tweet": "C'était une belle, c'était une magnifique manif !"
+  },
+  "request-95": {
+    "instance": "mastodon.top",
+    "tweet_index": 94,
+    "tweet": "Quand tu veux pas que ton chat touche ton sapin de Noël"
+  },
+  "request-96": {
+    "instance": "mastodon.top",
+    "tweet_index": 95,
+    "tweet": "On a fait le sapin de Noëeeeeel !"
+  },
+  "request-97": {
+    "instance": "mastodon.top",
+    "tweet_index": 96,
+    "tweet": "Fan de Banksy devant l'éternel, je ne résiste pas à l'envie de vous montrer sa dernière œuvre intitulée \"Welcome to reality\""
+  },
+  "request-98": {
+    "instance": "mastodon.top",
+    "tweet_index": 97,
+    "tweet": "Toi ? Faire le ménage ? Ahaha. Non. #Caturday"
+  },
+  "request-99": {
+    "instance": "mastodon.top",
+    "tweet_index": 98,
+    "tweet": "M'est avis que les heures de Twitter sont comptées. Attendez vous à une twitter migration massive s'il en arrive là"
+  },
+  "request-100": {
+    "instance": "mastodon.top",
+    "tweet_index": 99,
+    "tweet": "C'est quand tu reçois ce genre de mails que tu te dis que t'as peut-être vraiment servi à quelque chose 😊"
+  },
+  "request-101": {
+    "instance": "mastodon.top",
+    "tweet_index": 100,
+    "tweet": "pipi dans le train"
+  },
+  "request-102": {
+    "instance": "mastodon.top",
+    "tweet_index": 101,
+    "tweet": "photo de moi dans le train (pour mes fans)"
+  },
+  "request-103": {
+    "instance": "mastodon.top",
+    "tweet_index": 102,
+    "tweet": "bon c sympa les toots et tout mais moi je me lève à 7h, adieu"
+  },
+  "request-104": {
+    "instance": "mastodon.top",
+    "tweet_index": 103,
+    "tweet": "La quiche https://youtu.be/9CdcoKJuMb4"
+  },
+  "request-105": {
+    "instance": "mastodon.top",
+    "tweet_index": 104,
+    "tweet": "Production d'électricité en juillet 2024, dans les 38 pays de l'OCDE (996 TWh ; +2,6% /juillet 2023) :🔸fossiles : 509 TWh, soit 51,1% (moins 0,8%)🔸renouvelables  : 328 TWh, soit 32,9% (plus 7,8%)🔸nucléaire : 155 TWh, soit 15,6% (plus 3,6%)Y'a du boulot !"
+  },
+  "request-106": {
+    "instance": "mastodon.top",
+    "tweet_index": 105,
+    "tweet": "En Europe (30 pays ENTSOE), au 3ème trimestre 2024, les renouvelables ont été le 1er moyen de production d'électricité avec 50,8%,soit +15,7 points par rapport au 3T 2019.Ces renouvelables électriques ont remplacé des combustibles fossiles (-13,3 points du 3T 2019 au 3T 2024).Désormais la production éolienne européenne (104,7 TWh) dépasse celle hydroélectrique (103,5 TWh). La production solaire a été multipliée par 2,4 en seulement 5 ans.La production nucléaire a baissé de 14% en 5 ans."
+  },
+  "request-107": {
+    "instance": "mastodon.top",
+    "tweet_index": 106,
+    "tweet": "En 20 ans, la puissance unitaire des éoliennes installées en FR a étémultipliée par TROIS avec 2,9 MW en 2023.(le premier parc FR totalisait en 1993 …2,25 MW avec 5 machines)Les éoliennes installées en Europe dépassent elles 4,1 MW et captent des vents ➕forts et ➕réguliers."
+  },
+  "request-108": {
+    "instance": "mastodon.top",
+    "tweet_index": 107,
+    "tweet": "L’éolien et le solaire devraient atteindre 17% de la production électrique totale des USA en 2024.Elles totalisaient ~10% de l’électricité US en 2019, il y a seulement cinq ans.Elles atteindront probablement 20% au cours des deux prochaines années.Un doublement en 7 ans ?"
+  },
+  "request-109": {
+    "instance": "mastodon.top",
+    "tweet_index": 108,
+    "tweet": "Au 1er semestre 2024, il a été raccordé aux USA ~13 000 MW de photovoltaïque sous forme de systèmes centralisés.Sachant que les systèmes PV décentralisés (résidentiels, commerciaux et industriels) représentaient 30% de la puissance PV installée en 2023, il a été installé, tous systèmes confondus, autour de 18 500 MW PV au 1er semestre 2024, soit un rythme DEUX fois supérieur à 2023 (et ~double de la FR par habitant)."
+  },
+  "request-110": {
+    "instance": "mastodon.top",
+    "tweet_index": 109,
+    "tweet": "En 2023, la production éolienne FR a dépassé les 50 TWh (probablement plus en 2024 : 52 ou 53 TWh ?),elle a presque doublé en 5 ans (27,8 TWh en 2018).Elle titille désormais la production hydroélectrique (moyenne de ~60 TWh l'an)."
+  },
+  "request-111": {
+    "instance": "mastodon.top",
+    "tweet_index": 110,
+    "tweet": "Le 19 octobre 1941 a vu une grande première : le raccordement d’une grande éolienne (1,25 MW) au réseau électrique (Vermont, USA).83 après, la puissance éolienne installée mondialement atteint : ~1 100 000 MW !Wind is very powerful."
+  },
+  "request-112": {
+    "instance": "mastodon.top",
+    "tweet_index": 111,
+    "tweet": "Sur huit mois 2024, les renouvelables ont couvert ...34,9% de la conso électrique FR (et 28,6% de la production électrique) (et 31,8% de la conso en août) :   🔹hydro : 18,2%🔹éolien : 10,7%🔹photovoltaïque : 6,0%  Et ...56,7% en Allemagne66,4% en Espagne76,3% au Portugal"
+  },
+  "request-113": {
+    "instance": "mastodon.top",
+    "tweet_index": 112,
+    "tweet": "\"Rapport sur l’état du climat 2024 : une période périlleuse.\"Ames sensibles s'abstenir. 41 graphiques (peu optimistes) sur une période TRES périlleuse qui risque de mener à .... ? https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biae087/7808595"
+  },
+  "request-114": {
+    "instance": "mastodon.top",
+    "tweet_index": 113,
+    "tweet": "Production d'électricité bas-carbone en Chine en 2023 (35,6% du total, le charbon étant à 60%) :Nucléaire : 413 TWhSolaire : 578 TWhEolien : 877 TWhHydro : 1 228 TWh(autres renouvelables : 188 TWh)(éolien + solaire = 3,5 fois le nucléaire)(hydro = 3 fois le nucléaire)"
+  },
+  "request-115": {
+    "instance": "mastodon.top",
+    "tweet_index": 114,
+    "tweet": "En 2023, les énergies renouvelables variables (éolien et solaire) ont couvert 66% de production électrique du Danemark. Une part record.En 2030, neuf autres pays dépasseront une telle part (Pays-Bas, Allemagne, Grèce, Royaume-Uni, Portugal, Chili, Espagne, Irlande, Belgique) ; et 19 pays auront une part d'éolien et solaire supérieure à 50%"
+  },
+  "request-116": {
+    "instance": "mastodon.top",
+    "tweet_index": 115,
+    "tweet": "Selon la prudente Agence Internationale de l’Energie il va être installé, en 2024, ~670 000 MW renouvelables électriques dans le monde.~1 800 MW par jour !Bien plus que le parc nucléaire installé en plusieurs décennies (372 000 MW).Ainsi 2,5 années 2024 produiront autant que le parc nucléaire cumulé !"
+  },
+  "request-117": {
+    "instance": "mastodon.top",
+    "tweet_index": 116,
+    "tweet": "96% des éoliennes installées en France proviennent de fabricants européens(et donc moins de 4% de fabricants asiatiques).Cette proportion est restée stable en 2023 avec 95%.Une rumeur (sur les éoliennes chinoises) qui tombe à l'eau."
+  },
+  "request-118": {
+    "instance": "mastodon.top",
+    "tweet_index": 117,
+    "tweet": "En septembre 2024, les renouvelables ont couvert 31,6% des besoins électriques de l'Irlande :Eolien : 28,3%Solaire : 2,3%Hydro : 0,7%Biomasse : 0,3%Sur 9 mois 2024, 32,2% des besoins ont été couverts par l'éolien…terrestre seul : le pays est leader mondial en la matière."
+  },
+  "request-119": {
+    "instance": "mastodon.top",
+    "tweet_index": 118,
+    "tweet": "Explication du coût actualisé (LCOE) des énergies solaires et éoliennes à la  ↘️ et MOINDRE que celui des fossiles :🔹chute du prix du kW installé (divisé par 4,6 en 13 ans pour le PV),🔹meilleure production par kW (+33% en 13 ans pour l'éolien en mer).EnR inexorables."
+  },
+  "request-120": {
+    "instance": "mastodon.top",
+    "tweet_index": 119,
+    "tweet": "En Espagne sur neuf mois 2024, les renouvelables ont couvert ...près des DEUX TIERS (65,7%) des besoins électriques :🔹éolien : 25,2%🔹solaire : 23,1%🔹hydro : 15,9%Trimestriellement, cette part a été de :🔸66% pour T1🔸70% pour T2🔸58% pour T3 (il pleut et vente moins)"
+  },
+  "request-121": {
+    "instance": "mastodon.top",
+    "tweet_index": 120,
+    "tweet": "Jamais il n’a été installé autant de renouvelables électriques dans le monde qu'en 2023 : 470 000 MW.C'est bien plus que le parc nucléaire mondial installé en plusieursdécennies (372 000 MW).En électricité délivrée, 3 années 2023 produiront comme le parc nucléaire cumulé !"
+  },
+  "request-122": {
+    "instance": "mastodon.top",
+    "tweet_index": 121,
+    "tweet": "Sur neuf  mois 2024, les renouvelables ont couvert ... les TROIS QUARTS des besoins électriques du Portugal : 74,2%.(31,3% d'hydro, 26,2% d’éolien, 10,4% de solaire)Trimestriellement, cette part a été de :🔹91% pour T1🔹75% pour T2🔹55% pour T3 (il pleut et vente moins) (d’où l’atout de plus de photovoltaïque encore)"
+  },
+  "request-123": {
+    "instance": "mastodon.top",
+    "tweet_index": 122,
+    "tweet": "La part des renouvelables dans la conso électrique allemande ↗️ fortement :🔹4,6% en 1994 🔹9,9% en 2004🔹28,8% en 2014🔹...56,8% sur 9 mois 2024Sur 9 mois 2024, la répartition des productions est de :🔸28,2% pour l'éolien🔸17,1% pour le solaire(15,8% pour le gaz) m(14,3% pour le lignite)🔸8,7% pour la biomasse🔸4,6% pour l'hydro(4,5% pour le charbon)En septembre 2024, les EnR ont couvert 58,2% des besoins électriques.Un début : ~3 000 MW d'éolien terrestre viennent d’être attribués !"
+  },
+  "request-124": {
+    "instance": "mastodon.top",
+    "tweet_index": 123,
+    "tweet": "Cela fait 27 (!) semaines consécutives que plus de 50 % de l'électricité consommée aux Pays-Bas provient de sources renouvelables.En septembre :🔹du 1 au 7 : 50%🔹du 8 au 14 : 53%🔹du 15 au 21 : 58%🔹du 22 au 28 : 56%Cette part était de …10,5% en 2015.👏Via @BM_Visser"
+  },
+  "request-125": {
+    "instance": "mastodon.top",
+    "tweet_index": 124,
+    "tweet": "RT @Marie_Peltier@twitter.comBonjour @GLBouchez@twitter.com Vous retweetez ici un compte qui usurpe l’identité de @peltiermat@twitter.com et le harcèle depuis différents comptes depuis des mois. Il s’agit en sus d’une personne déjà condamnée pour harcèlement dans un autre dossier. Pouvez-vous rectifier et signaler ce compte?🐦🔗: https://twitter.com/Marie_Peltier/status/1619320280421400579"
+  },
+  "request-126": {
+    "instance": "mastodon.top",
+    "tweet_index": 125,
+    "tweet": "Pourquoi faut il des milliardaires? L'argument inattendu..."
+  },
+  "request-127": {
+    "instance": "mastodon.top",
+    "tweet_index": 126,
+    "tweet": "RT @0Vinz@twitter.comIntéressant : en France, la majeure partie de la fortune de 80% des milliardaires provient ... de l'héritage. Ca casse un peu le narratif habituel sur la création de richesses non? Et ce n'est pas moi qui le dit, c'est le Financial Times ...🐦🔗: https://twitter.com/0Vinz/status/1616060188422983680"
+  },
+  "request-128": {
+    "instance": "mastodon.top",
+    "tweet_index": 127,
+    "tweet": "RT @Seveerity@twitter.comProtests in Germany demanding that their government frees the Leopards.🐦🔗: https://twitter.com/Seveerity/status/1616497117379366916"
+  },
+  "request-129": {
+    "instance": "mastodon.top",
+    "tweet_index": 128,
+    "tweet": "RT @SawyerMerritt@twitter.comBoston Dynamics shows of their robots latest skills🐦🔗: https://twitter.com/SawyerMerritt/status/1615738852731392000"
+  },
+  "request-130": {
+    "instance": "mastodon.top",
+    "tweet_index": 129,
+    "tweet": "« Allô mon régiment et moi sommes arrivés au port d’Anvers avec nos chars et nos canons, on fait quoi maintenant? Sur qui qu’on tire? »"
+  },
+  "request-131": {
+    "instance": "mastodon.top",
+    "tweet_index": 130,
+    "tweet": "Voilà une bonne nouvelleRT @mathieugallard@twitter.com🇪🇺📊 Le souhait de quitter l'Union Européenne s'est littéralement effondré dans de nombreux pays européens entre 2016-2017 et 2020-2022. v/@ESS_Survey🐦🔗: https://twitter.com/mathieugallard/status/1610950639147798528"
+  },
+  "request-132": {
+    "instance": "mastodon.top",
+    "tweet_index": 131,
+    "tweet": "RT @GRACQ@twitter.comSelon le @SPFMobilite@twitter.com absolument rien n'enraye la distribution de voitures quasi-gratuites aux salariés, qui sont maintenant presque 14% à en bénéficier (un doublement en 15 ans). Pas même le fameux \"budget mobilité\". Et tant pis pour la mobilité durable🤨 https://mobilit.belgium.be/fr/news/les-voitures-de-societe-toujours-plus-nombreuses-106-en-15-ans🐦🔗: https://twitter.com/GRACQ/status/1611330063479472131"
+  },
+  "request-133": {
+    "instance": "mastodon.top",
+    "tweet_index": 132,
+    "tweet": "Ok Antivax, homophobe, islamophobe, conspi, etcBravo ElonRT @elonmusk@twitter.comI’m not brainwashed!!🐦🔗: https://twitter.com/elonmusk/status/1607997591870124032"
+  },
+  "request-134": {
+    "instance": "mastodon.top",
+    "tweet_index": 133,
+    "tweet": "Damien en roues libres. On peut penser ce qu’on veut de @francoisperl@twitter.com, « bête » « vulgaire » et méchant sont des qualificatifs qui lui vont très mal."
+  },
+  "request-135": {
+    "instance": "mastodon.top",
+    "tweet_index": 134,
+    "tweet": "Moi j’aimerais bien retrouver des sacs de biftons dont j’ignorais l’existenceRT @BFMTV@twitter.comCorruption au Parlement européen: Eva Kaili \"ignorait\" l'existence de l'argent retrouvé chez elle https://www.bfmtv.com/international/europe/corruption-au-parlement-europeen-eva-kaili-ignorait-l-existence-de-l-argent-retrouve-chez-elle_AD-202212130771.html🐦🔗: https://twitter.com/BFMTV/status/1602788388700028932"
+  },
+  "request-136": {
+    "instance": "mastodon.top",
+    "tweet_index": 135,
+    "tweet": "Des mois que ça dure et ce soir enfin… Merci à ceux qui ont permis cela"
+  },
+  "request-137": {
+    "instance": "mastodon.top",
+    "tweet_index": 136,
+    "tweet": "Damien « les prix du mazout vont flamber après le 5 décembre »Les prix du mazout:"
+  },
+  "request-138": {
+    "instance": "mastodon.top",
+    "tweet_index": 137,
+    "tweet": "https://twitter.com/cyrilhanouna/status/1596576587432054785 RT @Cyrilhanouna@twitter.comT inquiètes on va enquêter sur ton passé de dealer aussi!😂😂😂😂😂🙈 🤫 https://twitter.com/louisboyard/status/1596561067223953408🐦🔗: https://twitter.com/Cyrilhanouna/status/1596576587432054785"
+  },
+  "request-139": {
+    "instance": "mastodon.top",
+    "tweet_index": 138,
+    "tweet": "RT @lesoir@twitter.com#Qatar2022 La ministre hadja Lahbib s'est présentée auprès de Gianni Infantino avec le brassard «One Love»https://www.lesoir.be/478894/article/2022-11-23/coupe-du-monde-les-diables-rouges-lancent-leur-mondial-face-au-canada-0-0-direct🐦🔗: https://twitter.com/lesoir/status/1595494687133077513"
+  },
+  "request-140": {
+    "instance": "mastodon.top",
+    "tweet_index": 139,
+    "tweet": "La belle fête du footRT @GrantWahl@twitter.comJust now: Security guard refusing to let me into the stadium for USA-Wales. “You have to change your shirt. It’s not allowed.”🐦🔗: https://twitter.com/GrantWahl/status/1594721724746338305"
+  },
+  "request-141": {
+    "instance": "mastodon.top",
+    "tweet_index": 140,
+    "tweet": "Ils ont préparé votre fête du foot... 6500 en sont morts.  J'espère que vous en profiterez bien... Ce sera sans moi"
+  },
+  "request-142": {
+    "instance": "mastodon.top",
+    "tweet_index": 141,
+    "tweet": "RT @EricLagadec@twitter.comL'Univers a ~13,8 milliards d'années. Je me rends bien compte que c'est difficile d'imaginer une histoire aussi longue. Ça vous dit de lire un résumé de tout ça en un thread? Une brève histoire de l'Univers et de la vie sur Terre en un thread?👇©WMAP🐦🔗: https://twitter.com/EricLagadec/status/1593681169660497925"
+  },
+  "request-143": {
+    "instance": "mastodon.top",
+    "tweet_index": 142,
+    "tweet": "Voilà"
+  },
+  "request-144": {
+    "instance": "mastodon.top",
+    "tweet_index": 143,
+    "tweet": "RT @antoinellorca@twitter.comÇa commence bien au Qatar...Alors qu'il faisait un duplex à Doha, un journaliste danois a été empêché de filmer avant que l'on menace de fracasser sa caméra...#WorldCup2022 #WorldcupQatar2022🐦🔗: https://twitter.com/antoinellorca/status/1592823948647223296"
+  },
+  "request-145": {
+    "instance": "mastodon.top",
+    "tweet_index": 144,
+    "tweet": "Bonjour. Vous pensez toustes que je suis une femme équilibrée, rationnelle et totalement maîtresse de ses émotions. Vous vous trompez. Je viens de chialer de joie en ouvrant un colis que j'ai commandé pour @Claire et moi. REGARDEZ MOI, CETTE IMMENSE BEAUTÉ 😭😭😭"
+  },
+  "request-146": {
+    "instance": "mastodon.top",
+    "tweet_index": 145,
+    "tweet": "Ma chatte a piqué le doudou Jean-Pierre de mon fils ( de 23 ans )( c'est lui qui l'a appelé comme ça quand il était tout petit) dans sa chambre et l'a installé sur SON fauteuil ( anciennement celui de la mémé morte de Roukmout).Là, c'est son regard quand je fais mine de lui reprendre."
+  },
+  "request-147": {
+    "instance": "mastodon.top",
+    "tweet_index": 146,
+    "tweet": "J'aime pas le dimanche soir alors je fais plein de trucs plus ou moins débilos pour m'auto-enjailler. Là chuis allée sur le greffier qui pète pour lui demander de me raconter une blague cochonne. Je vous laisse apprécier la performance. J'ai encore plus le seum. 😑"
+  },
+  "request-148": {
+    "instance": "mastodon.top",
+    "tweet_index": 147,
+    "tweet": "À la question : pourquoi tu t'es tunée la tronche alors que t'es en pyjama et que tes seules activités vont consister à faire des crêpes et pschitter ta cuisine?Je n'ai pas de réponse rationnelle mais je fais ça souvent."
+  },
+  "request-149": {
+    "instance": "mastodon.top",
+    "tweet_index": 148,
+    "tweet": "#MardiPatisserieAujourd'hui, je vous propose une pièce montée de bonbons kipikes pour le plaisir des yeux et des papilles 🤤🤩*Ya de la créativité et de l'élaboration, ça va passer crème*"
+  },
+  "request-150": {
+    "instance": "mastodon.top",
+    "tweet_index": 149,
+    "tweet": "Pourquoi j'aime autant ma chatte - Parce qu'elle est belle- Parce qu'elle est douce- Parce qu'elle s'en fout"
+  },
+  "request-151": {
+    "instance": "mastodon.top",
+    "tweet_index": 150,
+    "tweet": "Des nouvelles de Poutou:Il garde la pêche 😁🫶🏼"
+  },
+  "request-152": {
+    "instance": "mastodon.top",
+    "tweet_index": 151,
+    "tweet": "J'étais sa meilleure amie. Je me rends compte que je l'aimais bien aussi, finalement. C'est amputée d'une partie de moi que je vous livre ces mots, impudiques certes, mais le coeur qui saigne peut-il contenir son débit, à cause des battements, et tout ça ?... Un peu comme la morve de son nez à la fin.  Mdr. (Elle aurait validé cette blague).Sans elle, rien ne sera plus jamais pareil. Ce sera forcément bcp plus calme mais atrocement ennuyeux. Jtm @PrincessConnasse 💔🥲Enregistrer brouillon ✅"
+  },
+  "request-153": {
+    "instance": "mastodon.top",
+    "tweet_index": 152,
+    "tweet": "Bonjour.Dernier café matinal au bord de la petite plage de mes vacances. J'ai l'indécence d'avoir les grosses boulasses et les larmes aux yeux. Chaque départ devient un crève-coeur. Et chaque fois, la certitude  qu'il faut que je trouve le moyen de ne plus avoir à repartir, empèse l'idée de retourner chez moi, qui ne sera, décidément, jamais chez moi, même au bout de 15 ans. C'est ici, chez moi."
+  },
+  "request-154": {
+    "instance": "mastodon.top",
+    "tweet_index": 153,
+    "tweet": "Boire un verre de vin, face à l'océan. Juste un. Mais être ivre quand même."
+  },
+  "request-155": {
+    "instance": "mastodon.top",
+    "tweet_index": 154,
+    "tweet": "First day on Mastodon ! 🎊 So happy to be in a better safe place ♥I'm Robynn Frauhn, illustrator and Chara-designer who loves paganism and dark art 🖤 🌙"
+  },
+  "request-156": {
+    "instance": "mastodon.top",
+    "tweet_index": 155,
+    "tweet": "Les statistiques d'annonces d'évènements sur Razibus en 2019...... et en 2020 #covid"
+  },
+  "request-157": {
+    "instance": "mastodon.top",
+    "tweet_index": 156,
+    "tweet": "Ohmns + Chiaroscuro au Do It Yourself Café (Lille - 59) http://razibus.net/14-01-2020-ohmns-chiaroscuro-do-it-yourself-cafe-lille-30500.html"
+  },
+  "request-158": {
+    "instance": "mastodon.top",
+    "tweet_index": 157,
+    "tweet": "SOIRÉE DE SOUTIEN POUR UN PROJET AVEC LES ENFANTS RROMS (Paris - 75) http://razibus.net/12-01-2020-soiree-soutien-projet-avec-enfants-rroms-paris-30249.html"
+  },
+  "request-159": {
+    "instance": "mastodon.top",
+    "tweet_index": 158,
+    "tweet": "Unoauno + Passage à la Salle Gueule (Marseille - 13) http://razibus.net/12-01-2020-unoauno-passage-salle-gueule-marseille-30497.html"
+  },
+  "request-160": {
+    "instance": "mastodon.top",
+    "tweet_index": 159,
+    "tweet": "Les antispecistes : Effaçons cette barrière virtuelle que l'on a placée pour justifier le meurtre des vaches et des cochons alors que celui des chats et des chiens nous révolte. My brain : 🎶 they're eating the dogs, they're eating the cats 🎶"
+  },
+  "request-161": {
+    "instance": "mastodon.top",
+    "tweet_index": 160,
+    "tweet": "Somewhere under the rainbow"
+  },
+  "request-162": {
+    "instance": "mastodon.top",
+    "tweet_index": 161,
+    "tweet": "Heureusement qu'on n'est pas mardi, parce que je suis sûr qu'on ne me l'aurait jamais validée pour un #MardiPatisserie"
+  },
+  "request-163": {
+    "instance": "mastodon.top",
+    "tweet_index": 162,
+    "tweet": "Au fait, je vous ai pas montré le porte-clefs que m'a offert ma nièce en souvenir du jour où j'ai (bravement) guidé une chauve-souris qui s'était perdue dans un couloir de la maison.Super mims, mais quand même pas idéal pour transporter des clefs dans la poche."
+  },
+  "request-164": {
+    "instance": "mastodon.top",
+    "tweet_index": 163,
+    "tweet": "La reine du wokisme"
+  },
+  "request-165": {
+    "instance": "mastodon.top",
+    "tweet_index": 164,
+    "tweet": "#fleurisTonFil"
+  },
+  "request-166": {
+    "instance": "mastodon.top",
+    "tweet_index": 165,
+    "tweet": "Streets of Rage was truly well ahead of its time(Repost because of no alt text)"
+  },
+  "request-167": {
+    "instance": "mastodon.top",
+    "tweet_index": 166,
+    "tweet": "Qwant, c'est financé par qui ? Parce que quand je fais une petite recherche pour retrouver les résultats des élections, ils me proposent juste deux sources journalistiques : 20 minutes et (surtout) Cnews."
+  },
+  "request-168": {
+    "instance": "mastodon.top",
+    "tweet_index": 167,
+    "tweet": "Évidemment, pile quand j'avais prévu de sortir..."
+  },
+  "request-169": {
+    "instance": "mastodon.top",
+    "tweet_index": 168,
+    "tweet": "#SilentSunday"
+  },
+  "request-170": {
+    "instance": "mastodon.top",
+    "tweet_index": 169,
+    "tweet": "Mood:"
+  },
+  "request-171": {
+    "instance": "mastodon.top",
+    "tweet_index": 170,
+    "tweet": "Vous voyez autre chose que le sang versé dans les colonies britanniques ?"
+  },
+  "request-172": {
+    "instance": "mastodon.top",
+    "tweet_index": 171,
+    "tweet": "Cherchez l'erreur"
+  },
+  "request-173": {
+    "instance": "mastodon.top",
+    "tweet_index": 172,
+    "tweet": "Comme tous les cool kids, je vous montre mes pattes de mouche#JeudiManuscrit"
+  },
+  "request-174": {
+    "instance": "mastodon.top",
+    "tweet_index": 173,
+    "tweet": "Le rebord de ma fenêtre#lichenSubscribe"
+  },
+  "request-175": {
+    "instance": "mastodon.top",
+    "tweet_index": 174,
+    "tweet": "Pâtisseries Petit passage à la chocolaterie Néel juste avant la fermeture. On se garde ça pour le dessert, mais je salive déjà.#MardiPatisserie"
+  },
+  "request-176": {
+    "instance": "mastodon.top",
+    "tweet_index": 175,
+    "tweet": "Au bureau, j'ai une vue sur le parking, mais y en a qu'on ça :"
+  },
+  "request-177": {
+    "instance": "mastodon.top",
+    "tweet_index": 176,
+    "tweet": "Internet - youtube - malegaze Les pubs YouTube, c'est vraiment devenu de la grande qualité. Ils en sont maintenant aux arnaques porno qu'on ne trouvait que sur les sites de piratage des années 2000. Internet is dead.(Sérieux, le nom du site, c'est \"Mamans Rencontres\". Merci l'intelligence artificielle !)"
+  },
+  "request-178": {
+    "instance": "mastodon.top",
+    "tweet_index": 177,
+    "tweet": "Nourriture Hé ! Depuis quand on a besoin de préciser que la pâte à tarte est \"sans colorant\" ?"
+  },
+  "request-179": {
+    "instance": "mastodon.top",
+    "tweet_index": 178,
+    "tweet": "Mon #MardiPatisserie qui sera peut être aussi mon mercredi pâtisserie si je patiente jusque là."
+  },
+  "request-180": {
+    "instance": "mastodon.top",
+    "tweet_index": 179,
+    "tweet": "https://inv.nadeko.net/bRalPgpQvio?Excellente émission de @paul_denton sur le #lemediatv 🤩👏📺Le rapport à la liberté de la presse de #Macron est préfigurateur de ce que ferait l'#extremedroite une fois au pouvoir.À regarder et partager pour dévoiler les coulisses de la gestion du pouvoir de la #bourgeoisie qui déteste la #democratie et veut créer l'illusion d'un #pouvoirlegitime.Nils documente son travail avec rigueur et jette une lumière crue sur les ressorts du #journalisme #politique 🤐"
+  },
+  "request-181": {
+    "instance": "mastodon.top",
+    "tweet_index": 180,
+    "tweet": "https://www.francebleu.fr/infos/societe/retraites-sante-salaires-une-journee-de-greve-et-manifestation-au-mans-le-mardi-1er-octobre-8290736#Greve1erOctobre « Pour l’emploi, la santé, les salaires, les pensions et les minimas sociaux. Mais aussi pour de meilleures conditions de travail, pour l’abrogation de la réforme des retraites et pour des moyens à la hauteur des besoins pour l’ensemble des services publics. » Les organisations syndicales CGT, FSU, Solidaires et UNEF appellent à une journée de grève et une manifestation.ℹ️ banderole et visuels réalisé·es avec le #logiciellibre #scribus"
+  },
+  "request-182": {
+    "instance": "mastodon.top",
+    "tweet_index": 181,
+    "tweet": "https://manifs.fr/events/ae1725b5-c134-4d14-a7dd-2ab78e244471Grande journée CONTRE #AMAZON en #Sarthe 14/09 - Écommoy 12h - Le Mans 17h - Trangé 19h-  12h30 à 14h : pique nique- 14h : départ vers Le Mans en vélo (30 km) pour ceux qui le peuvent ou tout autre moyen de locomotion- 14h à 17h : Cyclo-manif - Écommoy-Le Mans- 18h : départ vers Trangé (7 km) en vélo ou tout autre moyen de locomotion de 18h à 19h : Cyclo-manif- 19h à l’aube : final à Trangé (Grand gîte réservé)#stopamazon #ecologie #lutte #ecosocialisme #gafam"
+  },
+  "request-183": {
+    "instance": "mastodon.top",
+    "tweet_index": 182,
+    "tweet": "ℹ️ M. #Barnier appelé à faire de la loi grand âge une « priorité ».#Barnier entre à Matignon pour s'assurer qu'il aura bien une place en #EHPAD en 2040 et qu'on lui changera sa couche plus souvent qu'actuellement chez #Orpéa RAPPEL : #barnier aura 75 ans dès 2026 & 89 ans en 2040 ! 😱 🚨  #Macron veut probablement régler le « problème » du #GrandAge en repoussant l'âge de départ à la retraite 🤬  & en laissant mourir les ouvrier•ères au travail#64ansCestToujoursNonhttps://www.lemonde.fr/politique/live/2024/09/10/en-direct-michel-barnier-de-l-ecoute-et-du-respect-voici-deux-lignes-qui-me-guideront-dans-les-semaines-a-venir-promet-le-premier-ministre_6304530_823448.html?#id-1894237"
+  },
+  "request-184": {
+    "instance": "mastodon.top",
+    "tweet_index": 183,
+    "tweet": "https://manifs.fr/events/ae1725b5-c134-4d14-a7dd-2ab78e244471🚲💥Vélorution contre les entrepôts géants - Sarthe - 14/09 💥🚲Que vous ayez ou non mieux à faire que de venir combattre le #capitalisme d'#Amazon et son monde (de merde ⚠️), alors merci de repouetter le plus possible et/ou de nous rejoindre pour défendre le #vivant !🌳👊 #macron a très largement favorisé l'implantation des entrepôts Amazon partout en France.🤮 ☠️ #NoBasaran #StopAmazon #EntrepotNonMerci@Reporterre @mediapart @davduf 🗞️ Médias libres... À l'aide 🆘🚨"
+  },
+  "request-185": {
+    "instance": "mastodon.top",
+    "tweet_index": 184,
+    "tweet": "Très belle synthèse de la situation politique par #FredsSochard !Après consultation des composantes racistes, homophobes et antisociales de l'assemblée, voici le nom du premier ministre...#macron #michelbarnier #extremedroite #manif7sept"
+  },
+  "request-186": {
+    "instance": "mastodon.top",
+    "tweet_index": 185,
+    "tweet": "« Avec X, Musk s’est acheté une arène d’influence et s’est placé au centre »https://www.mediapart.fr/journal/international/210824/avec-x-musk-s-est-achete-une-arene-d-influence-et-s-est-place-au-centre?utm_source=global&utm_medium=social&utm_campaign=SharingApp&xtor=CS3-5Les régies publicitaires (appelées vulgairement réseaux sociaux) ont dégradé le débat public en favorisant les contenus extrêmes et la polarisation. Elon Musk, depuis son rachat de Twitter rebaptisé X, n’a fait qu’exacerber la situation, mettant en avant les idées d'extrême-droite !Un article avec @davidchavalarias et @mediapart ‼️🤩✊"
+  },
+  "request-187": {
+    "instance": "mastodon.top",
+    "tweet_index": 186,
+    "tweet": "Extrait de #commentsaboterunpipeline :Dans le chapitre rompre le charme, #AndreasMalm    cite #amirparvizpouyan :« […] Ces actes de sabotage, en se poursuivant, compromettront tout particulièrement les choses même que l'ennemi a terriblement peur de perdre. Le charme est rompu et l'ennemi apparaît comme un magicien vaincu. »Se pourrait-il que les #jo2024 vire au cauchemar pour la #macron nie⁉️Tant que personne n'en meurt, vive le « #sabotage » des #jo 🤩🎉☮️🗽#NoJO #peace #stopetatdurgence"
+  },
+  "request-188": {
+    "instance": "mastodon.top",
+    "tweet_index": 187,
+    "tweet": "Aux JO 2024, un usage sans précédent des drones et des algorithmes de surveillancehttps://www.mediapart.fr/journal/france/250724/aux-jo-2024-un-usage-sans-precedent-des-drones-et-des-algorithmes-de-surveillance?utm_source=global&utm_medium=social&utm_campaign=SharingApp&xtor=CS3-5#jo2024 : des algorithmes de surveillance sont utilisés par la RATP et la SNCF dans + de 50 gares d'IDF. Des drones sont autorisés à survoler certaines villes… Un article de #mediapart qui choque à juste titre tant la #surveillance devient la norme en France.Reste que les #bigtech font de même ( #facebook #twitter #instagram #tiktok #google ) sans que ça n'émeuve tellement.#nogafam ✊"
+  },
+  "request-189": {
+    "instance": "mastodon.top",
+    "tweet_index": 188,
+    "tweet": "Depuis la dissolution, le danger d’une « trêve » démocratiquehttps://www.mediapart.fr/journal/france/240724/depuis-la-dissolution-le-danger-d-une-treve-democratique?utm_source=global&utm_medium=social&utm_campaign=SharingApp&xtor=CS3-5#macron nage en plein confusionnisme. Il reconnaît avoir perdu les élections, mais refuse d’en tirer les conséquences, rêvant de continuer de mener la politique qui l’a conduit …#macron est sans doute possible le marchepied de l' #extremedroite ( #rn ) 🤮🤬Comme à #NDDL puis à #Melle , il nous trouver les voies pour #saboterlepresidentialisme #AndreasMalm #NFP #alagreve #mobilisation #luciecastets ✊‼️"
+  },
+  "request-190": {
+    "instance": "mastodon.top",
+    "tweet_index": 189,
+    "tweet": "Depuis le #VillagedeleauGrande liesse populaire pour une société de justice éco-sociale féministe !🎉🤩‼️Le capitalisme est mort et la jeunesse l'a enterré ce soir à #Melle #NoBassaran ✊"
+  },
+  "request-191": {
+    "instance": "mastodon.top",
+    "tweet_index": 190,
+    "tweet": "À 10 km de #melle vers #maisonnay , encore et toujours cette présence gendarmesque qui montre à quel point le pouvoir #macron brutalise la #democratie"
+  },
+  "request-192": {
+    "instance": "mastodon.top",
+    "tweet_index": 191,
+    "tweet": "Depuis 7h00 ce vendredi 19 juillet à #Melle  l'hélicoptère de la gendarmerie survole le territoire de la commune…Pouvoir sécuritaire et ambiance carcérale ‼️🤬"
+  },
+  "request-193": {
+    "instance": "mastodon.top",
+    "tweet_index": 192,
+    "tweet": "Depuis #Melle et le village de l'eau,💥🌊Le niveau de contrôle est ahurissant !👮‍♂️👮‍♂️👮‍♀️👮‍♂️👮‍♂️ Vérification d'identité de chaque personne et fouille précise avec obligation de vider l'ensemble des affaires. L'attente peut être interminable !⏱️Par ailleurs, hélicoptère qui survole en permanence le secteur. La perspective d'un nouveau Sainte Soline est ultra présente !☠️Une fois rentrée, c'est top !🤩🎉✊‼️🚲Mais quel délire sécuritaire !!! 21:52, l'hélicoptère 🚁 survole toujours la zone 🤬"
+  },
+  "request-194": {
+    "instance": "mastodon.top",
+    "tweet_index": 193,
+    "tweet": "Sur la #Vélidéale entre #Nantes et #vassivière  de passage par #melle 🚲🚲🚲🚲 Commune charmante, ambiance plutôt calme et sympa… à un détail près 🤔… Le bruit permanent des 🚁🚁🚁Un ministre de l'intérieur #NFP, ça urge là.Donc, faut 1️⃣ PM en urgence ! Ce qui compte, c'est l'application du programme, pas la personne. Son engagement doit être d'appliquer le programme, tout le programme et rien que le programme.#NoBasaran ✊"
+  },
+  "request-195": {
+    "instance": "mastodon.top",
+    "tweet_index": 194,
+    "tweet": "Sur la #Vélidéale entre #Nantes et #vassivière  de passage par #melle 🚲🚲🚲🚲 Commune charmante, ambiance plutôt calme et sympa… à un détail près 🤔… Le bruit permanent des 🚁🚁🚁Un ministre de l'intérieur #NFP, ça urge là.Donc, faut 1️⃣ PM en urgence ! Ce qui compte, c'est l'application du programme, pas la personne. Son engagement doit être d'appliquer le programme, tout le programme et rien que le programme.#NoBasaran ✊"
+  },
+  "request-196": {
+    "instance": "mastodon.top",
+    "tweet_index": 195,
+    "tweet": "De tels résultats disent :1. GRANDE MAJORITÉ refuse le racisme, la xénophobie et la haine et revendique l'égalité des droits, 🤩2. URGENCE de SERVICES PUBLICS dans les territoires (santé, éducation, social, justice)🚨3. NÉCESSITÉ impérieuse de :   3.1 - HAUSSES salaires & pensions,‼️   3.2 - BLOCAGE prix énergie et gratuité transport en commun d'abord de proximité,🚉 🚌 🚲   3.3 - RÉFORME FISCALES et institutionnelles (proportionnelle et 6e Rep),⚠️   3.4 - SE SYNDIQUER ET LUTTER ENSEMBLE ✊"
+  },
+  "request-197": {
+    "instance": "mastodon.top",
+    "tweet_index": 196,
+    "tweet": "La carte dit bien où la catastrophe est déjà là. Sur #mediapart , mise à jour en temps réel et est en accès libre jusqu'à minuit.Maintenant, Il va falloir que l'expression de l' #intersyndicale soit d'une clarté et d'une exigence absolue avec le pouvoir politique et le patronat ‼️Les exigences et la mobilisation du monde du travail ont mis en échec et le #rn et la #macronie  , et mis en tête un programme de #justice éco-sociale en rupture avec l'austérité. ✊#NFP https://www.mediapart.fr/journal/politique/070724/visualisez-les-resultats-des-elections-legislatives-2024"
+  },
+  "request-198": {
+    "instance": "mastodon.top",
+    "tweet_index": 197,
+    "tweet": "Tout n'est pas perdu quand la jeunesse refuse le monde tel qu'il est !Tel qu'il est par la responsabilité écrasante des plus riches et de celles et ceux qui veulent protéger leurs privilèges au lieu de refuser que certain•es n'est plus rien et aucune perspective d'avenir.Quoi qu'il arrive demain, la lutte pour la liberté, pour l'égalité et la solidarité doit perdurer et s'amplifier.#nopasran #siamotuttiantifascisti #NFP #allezvoter"
+  },
+  "request-199": {
+    "instance": "mastodon.top",
+    "tweet_index": 198,
+    "tweet": "La RTBF annonce une possible majorité absolue pour le RN ! 🤬🤮💩https://www.rtbf.be/article/france-le-taux-de-participation-en-nette-hause-aux-legislatives-par-rapport-a-2022-suivez-notre-direct-pour-ne-rien-rater-11397471"
+  },
+  "request-200": {
+    "instance": "mastodon.top",
+    "tweet_index": 199,
+    "tweet": "Durée indéterminée"
+  },
+  "request-201": {
+    "instance": "mastodon.top",
+    "tweet_index": 200,
+    "tweet": "In the wave"
+  },
+  "request-202": {
+    "instance": "mastodon.top",
+    "tweet_index": 201,
+    "tweet": "Mood"
+  },
+  "request-203": {
+    "instance": "mastodon.top",
+    "tweet_index": 202,
+    "tweet": "The treacherous topography of Pipeline. Photo: Sean Davey, Haleiwa, Hawaii Sean Davey fine art adventure Photography.www.SeanDavey.com#photography #surf #hawaii"
+  },
+  "request-204": {
+    "instance": "mastodon.top",
+    "tweet_index": 203,
+    "tweet": "Clope"
+  },
+  "request-205": {
+    "instance": "mastodon.top",
+    "tweet_index": 204,
+    "tweet": "Miles"
+  },
+  "request-206": {
+    "instance": "mastodon.top",
+    "tweet_index": 205,
+    "tweet": "Bonjour📷Tim McKennaVague de Teahupoo. Tahiti#photography #mastoart"
+  },
+  "request-207": {
+    "instance": "mastodon.top",
+    "tweet_index": 206,
+    "tweet": "📷 Amanda van den Berg. Dancing trees.#photography #mastoart"
+  },
+  "request-208": {
+    "instance": "mastodon.top",
+    "tweet_index": 207,
+    "tweet": "Louise Brooks, 1926"
+  },
+  "request-209": {
+    "instance": "mastodon.top",
+    "tweet_index": 208,
+    "tweet": "Meshes of the Afternoon (Maya Deren & Alexander Hammid, 1943)"
+  },
+  "request-210": {
+    "instance": "mastodon.top",
+    "tweet_index": 209,
+    "tweet": "Weimar artist George Grosz dressed as Death in Berlin, 1919. “Dada Death.” #photography #berlin"
+  },
+  "request-211": {
+    "instance": "mastodon.top",
+    "tweet_index": 210,
+    "tweet": "Moe's Tavern"
+  },
+  "request-212": {
+    "instance": "mastodon.top",
+    "tweet_index": 211,
+    "tweet": "Yo Masto! #photography #wildlife"
+  },
+  "request-213": {
+    "instance": "mastodon.top",
+    "tweet_index": 212,
+    "tweet": "Électroencéphalogramme du soir…"
+  },
+  "request-214": {
+    "instance": "mastodon.top",
+    "tweet_index": 213,
+    "tweet": "Mū"
+  },
+  "request-215": {
+    "instance": "mastodon.top",
+    "tweet_index": 214,
+    "tweet": "2023.Point de situation.Optimisme?"
+  },
+  "request-216": {
+    "instance": "mastodon.top",
+    "tweet_index": 215,
+    "tweet": "But don’t forget!"
+  },
+  "request-217": {
+    "instance": "mastodon.top",
+    "tweet_index": 216,
+    "tweet": "Et"
+  },
+  "request-218": {
+    "instance": "mastodon.top",
+    "tweet_index": 217,
+    "tweet": "Mettre les voiles"
+  },
+  "request-219": {
+    "instance": "mastodon.top",
+    "tweet_index": 218,
+    "tweet": "Nudity #photography Tina Trumpp, La pomme"
+  },
+  "request-220": {
+    "instance": "mastodon.top",
+    "tweet_index": 219,
+    "tweet": "Bon, sur X ce matin IPSOS m'indique avoir corrigé la page.(j'ai quand même été vérifier 😉 mais c'est bien corrigé)"
+  },
+  "request-221": {
+    "instance": "mastodon.top",
+    "tweet_index": 220,
+    "tweet": "⚠️IPSOS se trompe en recopiant son propre graphique. Dans la présentation de son dernier sondage \"baromètre état de la France / Rapport à la démocratie\" pour le CESE, le graphique intervertit des résultats par rapport à celui du rapport complet.Source➡️ https://www.ipsos.com/fr-fr/barometre-etat-de-la-france-quel-rapport-la-democratie-en-2024"
+  },
+  "request-222": {
+    "instance": "mastodon.top",
+    "tweet_index": 221,
+    "tweet": "Nouvelle vidéo ! #Energie #DoItYourself L'énergie libre, c'est finito. On a trouvé de nouveaux moyens de vous embobiner, à base de recyclage de vos CD pour fabriquer vous-même votre propre panneau solaire photovoltaïque !À découvrir sur YouTube :➡️https://www.youtube.com/watch?v=M1-fraZ35d8"
+  },
+  "request-223": {
+    "instance": "mastodon.top",
+    "tweet_index": 222,
+    "tweet": "Nouvelle vidéo en fin de journée ! Karaoké inclus."
+  },
+  "request-224": {
+    "instance": "mastodon.top",
+    "tweet_index": 223,
+    "tweet": "Le Starship a terminé sa course dans l'océan indien, rallumant ses moteurs juste avant d'atteindre la surface de l'eau, puis d'exploser.Rien n'était prévu pour le récupérer, mais une caméra était sur place pour voir les dernières images depuis la surface.Le test est réussi."
+  },
+  "request-225": {
+    "instance": "mastodon.top",
+    "tweet_index": 224,
+    "tweet": "La réentrée dans l'atmosphère du StarShip S30 de SpaceX en quelques étapes. On peut voir ici la formation du plasma sous le bouclier thermique en tuiles."
+  },
+  "request-226": {
+    "instance": "mastodon.top",
+    "tweet_index": 225,
+    "tweet": "Vol de test du Starship S30 de SpaceX : le retour du booster \"Super Heavy\" et son rattrapage par les bras mécaniques de la tour \"mechazilla\" est réussi. C'est une première (et une étape importante pour la suite du programme lunaire Artemis). Il faut bien se rendre compte que l'engin fait 71m de haut et 9m de diamètre."
+  },
+  "request-227": {
+    "instance": "mastodon.top",
+    "tweet_index": 226,
+    "tweet": "Hier soir dans le petit coin sur Twitch, on s'est penché sur un article récemment paru dans Science, consacré au debunk par IA.https://www.science.org/doi/10.1126/science.adq1814 Le replay est dispo :https://www.twitch.tv/videos/2258834273"
+  },
+  "request-228": {
+    "instance": "mastodon.top",
+    "tweet_index": 227,
+    "tweet": "J'ai donc contesté mais TF1 refuse de débloquer ma vidéo. Pour rappel, je reprenais un extrait d'un JT dont on faisait une analyse critique. Et ce droit de citation est pourtant expressément indiqué dans les exceptions au droit d'auteur dans le règlement de YouTube.Pénible."
+  },
+  "request-229": {
+    "instance": "mastodon.top",
+    "tweet_index": 228,
+    "tweet": "Sans surprise, j'ai essayé de mettre le replay sur YouTube mais le robot a détecté un contenu de TF1 et a bloqué la vidéo.Difficile de critiquer un reportage sans en inclure des extraits. Je vais contester, mais bon au pire vous avez le replay sur Twitch, hein."
+  },
+  "request-230": {
+    "instance": "mastodon.top",
+    "tweet_index": 229,
+    "tweet": "Une petite dose d'étoiles ce soir ? Avec @mmontarges on vous propose un petit stream astro, à partir de 21h sur https://twitch.tv/defakator_officiel !"
+  },
+  "request-231": {
+    "instance": "mastodon.top",
+    "tweet_index": 230,
+    "tweet": "De manière totalement improbable, l'algo de YouTube se met à recommander depuis 5 jours mes vidéos sur la Terre plate datant de 6 ans, qui font soudain un pic de vues... suite à la vidéo de Legend sur le sujet sortie il y a peu.Mais les commentaires ramènent à l'humilité. Les vidéos n'ont hélas rien résolu du tout😅"
+  },
+  "request-232": {
+    "instance": "mastodon.top",
+    "tweet_index": 231,
+    "tweet": "Nouvelle vidéo en format court : s'informer dans le vide informationnel. Un stage de survie pour acquérir en immersion les compétences indispensables.https://www.youtube.com/watch?v=WKAQ6pEaBNo"
+  },
+  "request-233": {
+    "instance": "mastodon.top",
+    "tweet_index": 232,
+    "tweet": "#Macron20h"
+  },
+  "request-234": {
+    "instance": "mastodon.top",
+    "tweet_index": 233,
+    "tweet": "Le Déni : une allégorie télévisée.On avait mal compris ! Chacun a trouvé sa place, et désormais tout ira bien. #Assemblee"
+  },
+  "request-235": {
+    "instance": "mastodon.top",
+    "tweet_index": 234,
+    "tweet": "On ne change pas les infographistes qui gagnent. TF1 a sorti un graphique totalement pété au niveau des proportions, et où les divers gauche et divers droite regroupé dans \"les autres\" vont siéger dans une autre salle que l'hémicycle, apparemment."
+  },
+  "request-236": {
+    "instance": "mastodon.top",
+    "tweet_index": 235,
+    "tweet": "Enfin, un grand enseignement à tirer de ces #ElectionsLegislatives2024 en matière de sondages : il se confirme que les projections en sièges même à J-2 ne sont pas fiables du tout. C'est pire encore qu'en 2022.On débriefera tout ça ce soir sur Twitch😉 [3/3]"
+  },
+  "request-237": {
+    "instance": "mastodon.top",
+    "tweet_index": 236,
+    "tweet": "Les résultats définitifs des #ElectionsLegislatives2024... ne sont pas les mêmes selon le média que l'on consulte 🤨Cela tient en fait aux élus comptabilisés dans des nuances \"divers\" par le Ministère et à la manière dont on les rattache. [2/3]Résultats ici➡️https://www.resultats-elections.interieur.gouv.fr/legislatives2024/ensemble_geographique/index.html"
+  },
+  "request-238": {
+    "instance": "mastodon.top",
+    "tweet_index": 237,
+    "tweet": "La composition de la nouvelle assemblée nationale, par grands blocs, et surtout par partis pour avoir une idée des rapports de force qui vont être importants dans les discussions à venir. [1/3]"
+  },
+  "request-239": {
+    "instance": "mastodon.top",
+    "tweet_index": 238,
+    "tweet": "Pour l'instant, on en est là. #ElectionsLegislatives Ceci n'est pas une \"projection en sièges\", ça c'est fiable : ce sont les sièges déjà attribués. Pour tous ceux encore en gris, tout reste à faire. Au boulot !➡️https://www.resultats-elections.interieur.gouv.fr/legislatives2024/ensemble_geographique/index.html"
+  },
+  "request-240": {
+    "instance": "mastodon.top",
+    "tweet_index": 239,
+    "tweet": "\"Seule une approche axée sur les droits humains, la dépénalisation du travail du sexe et l’implication des TdS dans les prises de décision conduisent à une amélioration durable des  conditions de vie et de travail ainsi qu’à une protection contre les violences et l’exploitation.\"Coalition suisse pour les droits des travailleur·se·x·s du sexe lancée le 2 juin dernierhttps://procore-info.ch/fr/coalition-suisse-pour-les-droits-des-travailleur%C2%B7se%C2%B7x%C2%B7s-du-sexe/"
+  },
+  "request-241": {
+    "instance": "mastodon.top",
+    "tweet_index": 240,
+    "tweet": "Oops I did it again ! 🤓"
+  },
+  "request-242": {
+    "instance": "mastodon.top",
+    "tweet_index": 241,
+    "tweet": "Bien arrivée à #PSES2024 avec M. Lesperance."
+  },
+  "request-243": {
+    "instance": "mastodon.top",
+    "tweet_index": 242,
+    "tweet": "Ce vendredi 19h je serai à la médiathèque de Choisy-le-Roi avec @maitresse_catin et @petitexsirene pour parler des usages numériques des TDS, dans le cadre du festival @passageenseine https://passageenseine.fr/"
+  },
+  "request-244": {
+    "instance": "mastodon.top",
+    "tweet_index": 243,
+    "tweet": "J'ai reçu mes tote bags de Roses d'Acier, association communautaire de TDS chinoises de Belleville ! Ça en vallait l'attente 🥰Soutenez leur organisation communautaire, ces femmes sont parmi les TDS les plus réprimées de France.https://www.helloasso.com/associations/les-roses-d-acier-alliance-des-femmes/formulaires/1"
+  },
+  "request-245": {
+    "instance": "mastodon.top",
+    "tweet_index": 244,
+    "tweet": "Plus de 40 femmes travaillant à Gerland se sont réunies en assemblée générale, ceci est leur communiqué :Nous sommes les travailleuses du sexe du stade de Gerland. Nous sommes comme vous des femmes, des mères et desfilles. Nous aussi nous travaillons dans des conditions pénibles et luttons pour soutenir nos familles, nous aussi noussommes parents.Nous venons de pays pauvres où l’éducation et la santé ne sont pas gratuites."
+  },
+  "request-246": {
+    "instance": "mastodon.top",
+    "tweet_index": 245,
+    "tweet": "J'attaque le dernier-joui de Mélodie Nelson .J'ai un joli signet qui n'est qu'une tablette de papier mais à double sens et même de travers. Un clin d'oeil à Eswa - European Sex Workers Rights Alliance mais aussi à Terri-Jean Bedford . C'est Christine Pompadour qui me l'a fait remarquer.J'ai la chance d'être entourée moralement des putes parmi les plus fortes de ce monde.Surtout je me suis remise à lire et peut être que j'aurai moi aussi un jour un gros diplôme comme Sonia Verstappen."
+  },
+  "request-247": {
+    "instance": "mastodon.top",
+    "tweet_index": 246,
+    "tweet": "Il semblerait qu'il y ait une préférence marquée pour #MastoPutes, j'ai décidé de l'utiliser d'ores et déjà dans ma bio Mastodon. ✊💋☂️#SexWork"
+  },
+  "request-248": {
+    "instance": "mastodon.top",
+    "tweet_index": 247,
+    "tweet": "On est enfin le couple kitsch avec les t-shirts qui matchent, et pourtant aujourd'hui nous ne nous sommes même pas concertés. 😂"
+  },
+  "request-249": {
+    "instance": "mastodon.top",
+    "tweet_index": 248,
+    "tweet": "Même pas en rêve, tocard !"
+  },
+  "request-250": {
+    "instance": "mastodon.top",
+    "tweet_index": 249,
+    "tweet": "Vous êtes plusieurs à me demander ce que je pense du film La Maison, le film librement adapté du roman de Emma Becker, réalisé par Anissa Bonnefont et mettant en vedette Ana Girardot.Je vous avoue que je suis déçue, voire en colère. Oui, j'ai lu le livre et je sais qu'un film ne se réalise pas comme un livre et qu'il y a des ressorts narratifs différents.Oui, je sais qu'il faut que l'audience puisse s'identifier à certains personnages pour rendre le tout plus attachant et plus digeste."
+  },
+  "request-251": {
+    "instance": "mastodon.top",
+    "tweet_index": 250,
+    "tweet": "Au lancement du livre La mécanique des désirs de Mélodie Nelson. #Montreal"
+  },
+  "request-252": {
+    "instance": "mastodon.top",
+    "tweet_index": 251,
+    "tweet": "Fromage Cybèle Was Here"
+  },
+  "request-253": {
+    "instance": "mastodon.top",
+    "tweet_index": 252,
+    "tweet": "Alors on joue aux devinettes :- Est-ce que mes services sont détaillés sur mon site ? Oui- Est ce que mes pratiques et les tarifs sont indiqués clairement sur mon site ? Oui- Est-ce que mes disponibilités et la page d'accueil du site indiquent que je suis absente pour tout le mois de novembre ? Oui- Est-ce que cet homme est \"spécial\", plus dans la relation humaine car il préfère me demander directement les infos que de lire mon site ? Non, padutou ! 🤡"
+  },
+  "request-254": {
+    "instance": "mastodon.top",
+    "tweet_index": 253,
+    "tweet": "Et sinon, ils se cachent où les chats de Mastodon ?"
+  },
+  "request-255": {
+    "instance": "mastodon.top",
+    "tweet_index": 254,
+    "tweet": "Bonjour ! Comme beaucoup je me prépare pour l'ere post-twitter. Je suis militante pour les droits humains et la santé, étant travailleuse du sexe - plus précisément escort et accompagnante sexuelle. Je diffuse à destination des autres TDS, mais aussi aux allié·es et aux curieux·ses.Je ne réponds pas aux demandes de clients, je ne suis pas ici pour ça.#introduction #TDS #France #Strass #TravailDuSexe #SexWork #DroitsHumains #Santé #Justice #Féminismewww.manifestefeministe.fr"
+  },
+  "request-256": {
+    "instance": "mastodon.top",
+    "tweet_index": 255,
+    "tweet": "I’m back from #VoxxedDays Thessaloniki. Thanks to the team for the flawless organisation as always. I even brought back incriminating evidence on @johanjanssen 😎"
+  },
+  "request-257": {
+    "instance": "mastodon.top",
+    "tweet_index": 256,
+    "tweet": "It was my first @devfestnantes and I'm really sorry to leave after the first day: it was amazing! Thanks a lot to the organizers and the people who attended my talk.Now off to #VoxxedDays Thessaloniki to meet my Greek friends 🇬🇷"
+  },
+  "request-258": {
+    "instance": "mastodon.top",
+    "tweet_index": 257,
+    "tweet": "Next week, come join me and amazing speakers at #JavaCro in Croatia.https://2024.javacro.hr/eng"
+  },
+  "request-259": {
+    "instance": "mastodon.top",
+    "tweet_index": 258,
+    "tweet": "As I'm looking for my next job, I'm passing #codingchallenges again - I didn't do that for more 10 than years. Yet, it looks like I'm still in the game 🤘And one reviewer called my code \"smooth\" 😊"
+  },
+  "request-260": {
+    "instance": "mastodon.top",
+    "tweet_index": 259,
+    "tweet": "Back home after a great DevTalks in Cluj-Napoca.Icing on the cake, meeting with my friend and database master Vladuț Mihalcea"
+  },
+  "request-261": {
+    "instance": "mastodon.top",
+    "tweet_index": 260,
+    "tweet": "Back home after a great @bedcon.Next week, find me at DevTalks Cluj. Here’s a link for a free ticket. Beware, they’re limited in numberhttps://myconnector.ro/devtalks-cluj-napoca-2024/1651/tickets?discount=BF34C8"
+  },
+  "request-262": {
+    "instance": "mastodon.top",
+    "tweet_index": 261,
+    "tweet": "Come to @bedcon on Thursday-Friday and let's talk about #APIs"
+  },
+  "request-263": {
+    "instance": "mastodon.top",
+    "tweet_index": 262,
+    "tweet": "Some developers drank the kool aid, hook, line, and sinker 🤷‍♂️I'm really afraid for the next generations of developers who think their tool is the answer to every issue they'll ever face."
+  },
+  "request-264": {
+    "instance": "mastodon.top",
+    "tweet_index": 263,
+    "tweet": "Back home after a solid week at #JavaForumNord and #DevOpsDays Vilnius.Find me at @bedcon next week 🤝"
+  },
+  "request-265": {
+    "instance": "mastodon.top",
+    "tweet_index": 264,
+    "tweet": "Yeah, the Java Geek Weekly special Vilnius edition is out!https://blog.frankel.ch/java-geek-weekly/49/"
+  },
+  "request-266": {
+    "instance": "mastodon.top",
+    "tweet_index": 265,
+    "tweet": "In not so great times, it’s good to know that you have friends and that they think about you.Icing on the cake when they show it!Thanks @jlengrand for the morale booster 🙏🫂"
+  },
+  "request-267": {
+    "instance": "mastodon.top",
+    "tweet_index": 266,
+    "tweet": "Great weekend so far: board games, reading #duckdb in action - thanks @rotnroll666, and via ferrata"
+  },
+  "request-268": {
+    "instance": "mastodon.top",
+    "tweet_index": 267,
+    "tweet": "When I introduce #ApacheAPISIX in my talks, I mention the massive number of existing plugins, and that each of them implements a specific feature. One of the key features of Apache APISIX is its flexibility. If a feature is missing, you can create your own #plugin, showcasing the platform’s adaptability to your specific needs. In this post, I aim to provide practical alternatives to writing a custom plugin, offering solutions you can quickly implement in your projects.https://blog.frankel.ch/when-write-apisix-plugin/"
+  },
+  "request-269": {
+    "instance": "mastodon.top",
+    "tweet_index": 268,
+    "tweet": "Back from a short German trip via Java Forum Stuttgart, Software Architecture Meetup Leipzig, and Microservices Meetup Berlin.Thanks @dataduke for the meetups’ organization 🙏"
+  },
+  "request-270": {
+    "instance": "mastodon.top",
+    "tweet_index": 269,
+    "tweet": "The great thing about working in software development is that you get to know a lot of amazing people all over the world.My Czech friend Jaromir, who was my boss at #Hazelcast, stopped by in Geneva on his way to his vacation spot 🫶"
+  },
+  "request-271": {
+    "instance": "mastodon.top",
+    "tweet_index": 270,
+    "tweet": "It seems my first live talk in #German was not so bad after all 🥹PS: thanks for the comment! Comments are more useful than grades 👈"
+  },
+  "request-272": {
+    "instance": "mastodon.top",
+    "tweet_index": 271,
+    "tweet": "Another board game week: Dune Imperium, Fall of Lumen, Ceres, and Heroes of Might and Magic III"
+  },
+  "request-273": {
+    "instance": "mastodon.top",
+    "tweet_index": 272,
+    "tweet": "Encouraged by some idiot on Twatter, I asked #ChatGPT what it pretends to know about me. I'm surprised by the accuracy indeed."
+  },
+  "request-274": {
+    "instance": "mastodon.top",
+    "tweet_index": 273,
+    "tweet": "6. Today, Carnegie https://boardgamegeek.com/boardgame/310873/carnegieIt was my second attempt.I lost but I’m not ashamed of my game"
+  },
+  "request-275": {
+    "instance": "mastodon.top",
+    "tweet_index": 274,
+    "tweet": "5. Cooper Island https://boardgamegeek.com/boardgame/269511/cooper-islandThat was my first try. Original but I don’t know whether I want to play again"
+  },
+  "request-276": {
+    "instance": "mastodon.top",
+    "tweet_index": 275,
+    "tweet": "Gesticuler pour défendre l'indéfendable. Chasseray est indécrottable.https://nuage.au5v.fr/index.php/s/LrEs2TYq6BboDZt"
+  },
+  "request-277": {
+    "instance": "mastodon.top",
+    "tweet_index": 276,
+    "tweet": "@derailleurs_campus @Derailleurs14 @herouelibre#Paul #VéloRDV demain 17h45 devant la Mairie de #Caen"
+  },
+  "request-278": {
+    "instance": "mastodon.top",
+    "tweet_index": 277,
+    "tweet": "Le prix de la trahison."
+  },
+  "request-279": {
+    "instance": "mastodon.top",
+    "tweet_index": 278,
+    "tweet": "Leurs efforts pour le #vélo #bike ne datent pas d'hier.#Deutschland #Bremen"
+  },
+  "request-280": {
+    "instance": "mastodon.top",
+    "tweet_index": 279,
+    "tweet": "Un banc militant.#Rassismus #Deutschland #Bremerhaven"
+  },
+  "request-281": {
+    "instance": "mastodon.top",
+    "tweet_index": 280,
+    "tweet": "A Brême, certaines rues tolèrent les voitures. #VeloRue #Vélo #VoyageAVelo #Deutschland #Bremen"
+  },
+  "request-282": {
+    "instance": "mastodon.top",
+    "tweet_index": 281,
+    "tweet": "https://watermap.fr/#Water #Eau potable #Carte Merci #OSM @osm_fr 😉#NoPlasticInMySea #NoPlastic @noplasticfrance"
+  },
+  "request-283": {
+    "instance": "mastodon.top",
+    "tweet_index": 282,
+    "tweet": "Connais pas Martin, mais j'aime beaucoup son appli #Météo sans pub / no ads :OSS #Weather, avec choix du fournisseur de données https://f-droid.org/packages/com.akylas.weather/https://liberapay.com/farfromrefuge"
+  },
+  "request-284": {
+    "instance": "mastodon.top",
+    "tweet_index": 283,
+    "tweet": "Association Mieux VoterNotre application de vote au #jugementmajoritaire fait peau neuve ! Vous êtes très nombreuses et nombreux à l'utiliser. Grâce à vos retours, nous avons travaillé dur pour l'améliorer. Toujours gratuite, toujours simple, toujours open source : https://app.mieuxvoter.fr/fr"
+  },
+  "request-285": {
+    "instance": "mastodon.top",
+    "tweet_index": 284,
+    "tweet": "Indispensable.A toute heure.https://yewtu.be/watch?v=aVmRCD5FFMw#tootradio"
+  },
+  "request-286": {
+    "instance": "mastodon.top",
+    "tweet_index": 285,
+    "tweet": "Des outils performants, économiques et intuitifs :"
+  },
+  "request-287": {
+    "instance": "mastodon.top",
+    "tweet_index": 286,
+    "tweet": "Trouvez un réparateur de #vélo près de chez vous #jungleBike https://junglebike.fr"
+  },
+  "request-288": {
+    "instance": "mastodon.top",
+    "tweet_index": 287,
+    "tweet": "Sur la dernière décennie, la #France a donc construit 22,600 km de nouvelles routes pour la #voiture, soit 30 fois la distance Paris/Marseille.Coût : 45 milliards d'eurosMais le #gouvernement ne trouve pas 250 millions pour des pistes cyclables..."
+  },
+  "request-289": {
+    "instance": "mastodon.top",
+    "tweet_index": 288,
+    "tweet": "Alors que l'autoroute #A69 est déjà annoncée comme déficitaire 1 an avant son ouverture, le ministre des #transports #FrancoisDurovray déclare : \"Nous allons travailler pour voir comment abaisser le prix du péage\"Comment abaisser le prix ?Verser de l'argent public, pardi!!"
+  },
+  "request-290": {
+    "instance": "mastodon.top",
+    "tweet_index": 289,
+    "tweet": "Il y a au total 1 million de km de routes en France Sur lesquelles il y a 15.000 km de pistes cyclables (soit 1,5% du total)Mais pour les #automobilistes, adeptes du \"partage de la route\", c'est déjà trop ! 😎😎😎"
+  },
+  "request-291": {
+    "instance": "mastodon.top",
+    "tweet_index": 290,
+    "tweet": "L'#automobile n'est pas une \"liberté\", mais une prison, quand les gens doivent choisir entre payer la facture du garagiste ou faire les courses Cette frustration est peut-être l'un des moteurs de la #violencemotorisee https://vert.eco/articles/olivier-schneider-ce-que-subissent-les-cyclistes-tous-les-jours-ce-sont-des-violences-volontaires-ordinaires-et-qui-ne-font-reagir-personne?mc_cid=402e1f1a14&mc_eid=6b861d1a28"
+  },
+  "request-292": {
+    "instance": "mastodon.top",
+    "tweet_index": 291,
+    "tweet": "Sur #BFMTV, un débat sur un #député qui a consommé de la #drogue. Mon dieu ! quel scandale !Nous sommes une société un peu #hypocrite, non ?"
+  },
+  "request-293": {
+    "instance": "mastodon.top",
+    "tweet_index": 292,
+    "tweet": "\"Y a 30 ans, ça roulait mieux\", nous dit le vieil #automobiliste qui n'est pas encore mort d'un accident de la route ou d'un infarctus lié à son mode de vie sédentaireYes, Y a 30 ans, y avait 10 millions de #woatures en moins dans des rues qui n'ont pas grandi dans l'intervalle"
+  },
+  "request-294": {
+    "instance": "mastodon.top",
+    "tweet_index": 293,
+    "tweet": "La #FUB (fédération des usagers de la bicyclette) annonce qu'au total 20.000 personnes ont participé samedi à l'hommage rendu à #Paul dans plus de 300 lieux.#vélo #france"
+  },
+  "request-295": {
+    "instance": "mastodon.top",
+    "tweet_index": 294,
+    "tweet": "L'#impunité des #automobilistes en #France : + de 90% des conducteurs jugés pour des accidents avec blessés et avec circonstances aggravantes (alcool ou drogue) ne sont pas condamnés à des peines de prison ferme. La peine moyenne est de 8 mois.#violencemotorisee"
+  },
+  "request-296": {
+    "instance": "mastodon.top",
+    "tweet_index": 295,
+    "tweet": "L'#impunité des #automobilistes en #France : En 2019, 805 conducteurs ont été jugés pour des homicides involontaires sur la route.75 ont été condamnés à de la prison fermesoit .... 9%Peine moyenne : 22 mois.(source : ministère de la justice)#violencemotorisee"
+  },
+  "request-297": {
+    "instance": "mastodon.top",
+    "tweet_index": 296,
+    "tweet": "Paris samedi #jesuispaul"
+  },
+  "request-298": {
+    "instance": "mastodon.top",
+    "tweet_index": 297,
+    "tweet": "Minute de silence pour #Paul #paris"
+  },
+  "request-299": {
+    "instance": "mastodon.top",
+    "tweet_index": 298,
+    "tweet": "Un détail qui a une importance symbolique forte Si le conducteur qui a tué #Paul est condamné pour #meurtre, son crime n'apparaitra pas au bilan de la #sécuritéroutière.Pour l'Etat, il n'y a pas d'homicide volontaire sur la route#violencemotorisee https://justice.gouv.fr/sites/default/files/2023-04/Rapport_bilan_route_2019-2020.pdf"
+  },
+  "request-300": {
+    "instance": "mastodon.top",
+    "tweet_index": 299,
+    "tweet": "Le véhicule du tueur du cycliste mardi à Paris : #SUV #Mercedes GLE 4002,3 tonnes 5 mètres de longDe 0 à 100 km/h en moins de 6 secondesLe gars a roulé avec ce tank sur une piste cyclable pendant 200 m, au milieu des cyclistes. Il a fini par en tuer un#violencemotorisee"
+  },
+  "request-301": {
+    "instance": "mastodon.top",
+    "tweet_index": 300,
+    "tweet": "Samedi à 17h45, respectons une minute de silence pour #Paul tué mardi soir à Paris par un automobiliste.Des rassemblements auront lieu demain dans toute la #France : https://framacarte.org/fr/map/rassemblements-hommage-a-paul-19-octobre_197240#11/48.8094/2.3126#stopviolencemotorisée #JesuisPaulVarry"
+  },
+  "request-302": {
+    "instance": "mastodon.top",
+    "tweet_index": 301,
+    "tweet": "En hommage à #Paul, tué mardi soir à Paris par un automobiliste, les associations de cyclistes appellent à se rassembler samedi à 17h45 devant toutes les mairies de France, pour une minute de silence #violencemotorisee"
+  },
+  "request-303": {
+    "instance": "mastodon.top",
+    "tweet_index": 302,
+    "tweet": "La ville de #SaintOuen (#SeineSaintDenis) rend hommage à #Paul, le cycliste tué par un conducteur de SUV mardi soir à Paris Paul habitait cette commune pour laquelle il avait rédigé un livre blanc pour les piétons et les cyclistes qui avait inspiré l'équipe municipale"
+  },
+  "request-304": {
+    "instance": "mastodon.top",
+    "tweet_index": 303,
+    "tweet": "Paul avait 27 ans. Il a été tué mardi soir à Paris par un automobiliste qui roulait sur la piste cyclable 😔"
+  },
+  "request-305": {
+    "instance": "mastodon.top",
+    "tweet_index": 304,
+    "tweet": "rassemblement ce soir 19h30Madeleine#Paris"
+  },
+  "request-306": {
+    "instance": "mastodon.top",
+    "tweet_index": 305,
+    "tweet": "Je porte un #rubannoir aujourd’hui en hommage au cycliste tué à #Paris hier soirÇa suffit ! #violencemotorisee"
+  },
+  "request-307": {
+    "instance": "mastodon.top",
+    "tweet_index": 306,
+    "tweet": "C'est le printemps, je profite du beau temps avant l'arrivée des grandes chaleurs.Notre emménagement avance, je suis en train d'assembler les meubles et de ranger les jeux de société. Nous allons bientôt pouvoir dormir dans notre lit, après 5 mois de solutions temporaires."
+  },
+  "request-308": {
+    "instance": "mastodon.top",
+    "tweet_index": 307,
+    "tweet": "Quand j'étais enfant, la possibilité d'un Noël blanc était magique.Cette année, j'ai trop de blanc. 30 cm de neige plus une grosse couche de verglas.D'habitude, avec 10 à 15 cm de neige, je ne me plains pas. Mais, cette fois, j'attends le dégel avec impatience.#Spokane"
+  },
+  "request-309": {
+    "instance": "mastodon.top",
+    "tweet_index": 308,
+    "tweet": "Oh, ça ne va pas être chaud. Même dans mon garage isolé avec chauffage d'appoint, mes voitures vont avoir froid."
+  },
+  "request-310": {
+    "instance": "mastodon.top",
+    "tweet_index": 309,
+    "tweet": "Ce matin, de la neige. J'ai déneigé, mais ça tombe encore et c'est à nouveau tout blanc.Snow this morning. I shoveled it off, but more is falling and it's all white again.#neige #hiver #snow #winter #spokane"
+  },
+  "request-311": {
+    "instance": "mastodon.top",
+    "tweet_index": 310,
+    "tweet": "12-13 janvier 2023 à l'université d'Orléans: colloque en hommage à Gabriel Bergounioux. Le colloque portera sur les 4 domaines majeurs de son travail: -phonologie -histoire et épistémologie de la linguistique -archives sonores et les corpus oraux -représentations mentales du langage.Informations et programme complet ici: https://hommage-gbergounioux.sciencesconf.org Colloque organisé par le Laboratoire Ligérien de Linguistique (LLL - UMR 7270)"
+  },
+  "request-312": {
+    "instance": "mastodon.top",
+    "tweet_index": 311,
+    "tweet": "Sur #franceinter il y a de l'humour, du cinéma, de l'actualité, des chansons, de la satire ET de la stylistique/de la linguistique grâce à #CEstEncoreNous !"
+  },
+  "request-313": {
+    "instance": "mastodon.top",
+    "tweet_index": 312,
+    "tweet": "Dernière chronique pour #CEstEncoreNous #CEstEncoreClasse @franceinter sur l'ironie ! 😋 On définit souvent l’ironie par antiphrase (dire le contraire de ce qu’on pense). Mais l’ironie peut jouer sur des formes plus subtiles de distanciation... Décryptage! Référence : J. Authier-Revuz #linguistodon #linguistique https://www.youtube.com/watch?v=rdaMnzJ2qXI&t=67s"
+  },
+  "request-314": {
+    "instance": "mastodon.top",
+    "tweet_index": 313,
+    "tweet": "Dôme de la Grave, Toulouse#FensterFreitag #WindowFriday#Photography #Colors #ToulousePhoto is my own"
+  },
+  "request-315": {
+    "instance": "mastodon.top",
+    "tweet_index": 314,
+    "tweet": "Le bonheur d'aller à la mer#MeerMittwoch #Photography #ColorsPhoto is my own"
+  },
+  "request-316": {
+    "instance": "mastodon.top",
+    "tweet_index": 315,
+    "tweet": "#FotoVorschlag Licht und Schatten#Photography #Monochrome #bw#PhotoMonday #FotoMontagPhoto is my own"
+  },
+  "request-317": {
+    "instance": "mastodon.top",
+    "tweet_index": 316,
+    "tweet": "Au soleil sur les quais#SilentSunday #Photography #ToulousePhoto is my own"
+  },
+  "request-318": {
+    "instance": "mastodon.top",
+    "tweet_index": 317,
+    "tweet": "Toulouse, ville rose#FensterFreitag #WindowFriday#Photography #Toulouse #PinkPhoto is my own"
+  },
+  "request-319": {
+    "instance": "mastodon.top",
+    "tweet_index": 318,
+    "tweet": "@FotoVorschlag 'Früher war nicht alles besser'#FotoVorschlag #Photography #WW2 #History #Normandie #MonochromePhoto is my own"
+  },
+  "request-320": {
+    "instance": "mastodon.top",
+    "tweet_index": 319,
+    "tweet": "@FotoVorschlag 'Farbe : Geld'#Photography #FotoVorschlag #Cars#Colors #Yellow #PhotoMondayPhoto is my own"
+  },
+  "request-321": {
+    "instance": "mastodon.top",
+    "tweet_index": 320,
+    "tweet": "Cathédrale d'Albi#SilentSunday #Albi #Night #bw#Photography #MonochromePhoto is my own"
+  },
+  "request-322": {
+    "instance": "mastodon.top",
+    "tweet_index": 321,
+    "tweet": "En enjambant le Tarn#SilentSunday #Photography #Bridge #ReflectionPhoto is my own"
+  },
+  "request-323": {
+    "instance": "mastodon.top",
+    "tweet_index": 322,
+    "tweet": "Fenêtres médiévales en losange#FensterFreitag #WindowFriday #Photography#Normandie #Monochrome #bw #DiamondPhoto is my own"
+  },
+  "request-324": {
+    "instance": "mastodon.top",
+    "tweet_index": 323,
+    "tweet": "Géométrie brutaliste#FensterFreitag #WindowFriday #Photography#Paris #Architecture #Brutalism #CityscapePhoto is my own"
+  },
+  "request-325": {
+    "instance": "mastodon.top",
+    "tweet_index": 324,
+    "tweet": "Mulhouse - Usines historiques désaffectées#FensterFreitag #WindowFriday #Photography#Mulhouse #Factory #Abandoned #HistoryPhoto is my own"
+  },
+  "request-326": {
+    "instance": "mastodon.top",
+    "tweet_index": 325,
+    "tweet": "Fenêtres en boîtes#FensterFreitag #WindowFriday #Photography#Paris #Architecture #Cityscape #BuildingPhoto is my own"
+  },
+  "request-327": {
+    "instance": "mastodon.top",
+    "tweet_index": 326,
+    "tweet": "La Valette - Vague#SilentSunday #Malta #Wave #Photography Photo is my own - a most favorite one"
+  },
+  "request-328": {
+    "instance": "mastodon.top",
+    "tweet_index": 327,
+    "tweet": "Monsieur de Paris#Caturday #Cat #Cats #PhotographyPhoto is my own"
+  },
+  "request-329": {
+    "instance": "mastodon.top",
+    "tweet_index": 328,
+    "tweet": "Lumières d'Automne#SilentSunday #Normandy #Photography #Fall Photo is my own"
+  },
+  "request-330": {
+    "instance": "mastodon.top",
+    "tweet_index": 329,
+    "tweet": "Désert d'Oman#Oman #Desert #Sunset #Photography #OldRoll#SilentSunday #SunsetSunday #MemoriesPhotos are my own"
+  },
+  "request-331": {
+    "instance": "mastodon.top",
+    "tweet_index": 330,
+    "tweet": "Oman - Wadi#Oman #Wadi #Photography #OldRoll #SilentSunday #MemoriesPhoto is my own"
+  },
+  "request-332": {
+    "instance": "mastodon.top",
+    "tweet_index": 331,
+    "tweet": "Wien - Hundertwasserhaus#Wien #Hundertwasser #Photography #OldRoll#FensterFreitag #WindowFriday #MemoriesPhoto is my own"
+  },
+  "request-333": {
+    "instance": "mastodon.top",
+    "tweet_index": 332,
+    "tweet": "Jeune chat et vieilles pierres#Cat #OldChurch #Caturday #PhotographyPhoto is my own"
+  },
+  "request-334": {
+    "instance": "mastodon.top",
+    "tweet_index": 333,
+    "tweet": "Quelle est la différence de prix entre le carburant le plus cher et celui le moins cher ?"
+  },
+  "request-335": {
+    "instance": "mastodon.top",
+    "tweet_index": 334,
+    "tweet": "Trouve l’axe de symétrie."
+  },
+  "request-336": {
+    "instance": "mastodon.top",
+    "tweet_index": 335,
+    "tweet": "Combien coûte un california saumon avocat ? #proportionnalité"
+  },
+  "request-337": {
+    "instance": "mastodon.top",
+    "tweet_index": 336,
+    "tweet": "Combien de pas ai-je déjà réalisés ?"
+  },
+  "request-338": {
+    "instance": "mastodon.top",
+    "tweet_index": 337,
+    "tweet": "Paru sur le site M@ths en-vie Nouveauté de la rentrée 2024 : « L’atelier des problèmes »https://www.mathsenvie.fr/nouveaute-de-la-rentree-2024-latelier-des-problemes/"
+  },
+  "request-339": {
+    "instance": "mastodon.top",
+    "tweet_index": 338,
+    "tweet": "Paru sur le site M@ths en-vie L’atelier des problèmeshttps://www.mathsenvie.fr/latelier-des-problemes/"
+  },
+  "request-340": {
+    "instance": "mastodon.top",
+    "tweet_index": 339,
+    "tweet": "Paru sur le site M@ths en-vie Un parcours M@gistère M@ths en-vie par CANOPEhttps://www.mathsenvie.fr/un-parcours-mgistere-mths-en-vie-par-canope/"
+  },
+  "request-341": {
+    "instance": "mastodon.top",
+    "tweet_index": 340,
+    "tweet": "Paru sur le site M@ths en-vie Rejoignez le collectif M@th’n Co, c’est le moment !https://www.mathsenvie.fr/rejoignez-le-collectif-mthn-co-cest-le-moment/"
+  },
+  "request-342": {
+    "instance": "mastodon.top",
+    "tweet_index": 341,
+    "tweet": "Paru sur le site M@ths en-vie M@ths en-vie à l’université d’été #Ludovia21, du 26 au 29 août 2024https://www.mathsenvie.fr/mths-en-vie-a-luniversite-dete-ludovia21-du-26-au-29-aout-2024/"
+  },
+  "request-343": {
+    "instance": "mastodon.top",
+    "tweet_index": 342,
+    "tweet": "Sachant qu’il y a 6 bouteilles par carton, combien de bouteilles y a-t-il sur une palette ?"
+  },
+  "request-344": {
+    "instance": "mastodon.top",
+    "tweet_index": 343,
+    "tweet": "Exprime le nombre de bouteilles sous la forme d’une multiplication."
+  },
+  "request-345": {
+    "instance": "mastodon.top",
+    "tweet_index": 344,
+    "tweet": "Exprime le nombre de bouteilles sous la forme d’une multiplication."
+  },
+  "request-346": {
+    "instance": "mastodon.top",
+    "tweet_index": 345,
+    "tweet": "Exprime le nombre de bouteilles sous la forme d’une multiplication."
+  },
+  "request-347": {
+    "instance": "mastodon.top",
+    "tweet_index": 346,
+    "tweet": "Paru sur le site M@ths en-vie De beaux problèmes pour redonner le goût des mathématiqueshttps://www.mathsenvie.fr/de-beaux-problemes-pour-redonner-le-gout-des-mathematiques/"
+  },
+  "request-348": {
+    "instance": "mastodon.top",
+    "tweet_index": 347,
+    "tweet": "Combien de chambres y a-t-il en tout dans cet hôtel ?"
+  },
+  "request-349": {
+    "instance": "mastodon.top",
+    "tweet_index": 348,
+    "tweet": "À combien revient une déjeunette ?"
+  },
+  "request-350": {
+    "instance": "mastodon.top",
+    "tweet_index": 349,
+    "tweet": "À combien revient un poulet entier ?"
+  },
+  "request-351": {
+    "instance": "mastodon.top",
+    "tweet_index": 350,
+    "tweet": "Paru sur le site M@ths en-vie Des autocollants M@ths en-vie !https://www.mathsenvie.fr/des-autocollants-mths-en-vie/"
+  },
+  "request-352": {
+    "instance": "mastodon.top",
+    "tweet_index": 351,
+    "tweet": "Paru sur le site M@ths en-vie Un dispositif de formation en constellation autour de M@ths en-viehttps://www.mathsenvie.fr/un-dispositif-de-formation-en-constellation-autour-de-mths-en-vie/"
+  },
+  "request-353": {
+    "instance": "mastodon.top",
+    "tweet_index": 352,
+    "tweet": "Nomme toutes les figures géométriques formées par ces carreaux."
+  },
+  "request-354": {
+    "instance": "mastodon.top",
+    "tweet_index": 353,
+    "tweet": "#lune #monciel Photo prise à l'instant depuis le jardin du squat où je vis...On entendait venir l'orage mais finalement il est passé sans se manifester davantage"
+  },
+  "request-355": {
+    "instance": "mastodon.top",
+    "tweet_index": 354,
+    "tweet": "Llamamiento a manifestación - transfobia - violencia Llamamiento a una #ManiNocturna a #Russafa, barrio de #Valencia, este sábado 17 de agosto plaza Manuel granero a las 22h (España)\"COMUNICADO ANTE LAS RECIENTES AGRESIONES A COMPAÑERAS TRANSLa pasada noche del 5 de Agosto, en el barrio de Ruzafa, han tenido lugar 2 #AgresionesTránsfobas3 hombres decidieron que no sólo les valía con molestar con su charla a nuestras compañeras trans, sino que también hicieron uso de la violencia física. ⤵️"
+  },
+  "request-356": {
+    "instance": "mastodon.top",
+    "tweet_index": 355,
+    "tweet": "\"💥 ACTUAMOS 💥Nos enseñan que los poderosos son intocablesEs cierto que la políticas se redactan e interpretan al servicio de quienes más tienen, atentando directamente contra los derechos del resto de la poblaciónPero solo son el 1%Hoy 3 activistas han decorado la mansión ilegal de Messi¿Qué podríamos hacer si nos organizamos el 99% restante?❤️‍🔥Actúa y defiende un planeta habitable\" www.futurovegetal.org/participa#AntifaHooligan #ComeOnComeOn #FuturoVegetal #ecosocialismo #acciondirecta"
+  },
+  "request-357": {
+    "instance": "mastodon.top",
+    "tweet_index": 356,
+    "tweet": "#alerteantifasciste #TrollAlert Un mec vient de créer un compte sur masto et les seules publications qu'il poste sont des articles de presse qui relatent des agressions sexuelles subies par des femmes par des hommes exilés C'est très clairement un troll propagandiste d'extrême droiteBloquons le, signalons le #PasEnNotreNom #feminisme #transfeministe #immigration #racisme #propagandebrune @immigrantsrights"
+  },
+  "request-358": {
+    "instance": "mastodon.top",
+    "tweet_index": 357,
+    "tweet": "\" 29/07/1962 Manchester 🏴󠁧󠁢󠁥󠁮󠁧󠁿Le leader fasciste Oslwad Mosley tentait de se rendre à une marche de la British Union of Fascists lorsqu’il a été attaqué par des antifascistesPrès de 250 policiers ont été mobilisés pour le sauver qui n’ont pas pu l’empêcher de se faire lyncher à coup de pierres, œufs, tomates et pièces de monnaies ...⤵️"
+  },
+  "request-359": {
+    "instance": "mastodon.top",
+    "tweet_index": 358,
+    "tweet": "¡ SAQUEMOS AL COMPAÑERO DEL AISLAMIENTO !El compañero anarquista Francisco Solar fue detenido el 2020 y condenado a 86 años de prisión por distintos ataques explosivos contra poderosos y represoresGendarmería pretende encerrarlo en un régimen de aislamiento con restricción de visitas, encomiendas y un endurecimiento de las condiciones carcelarias totalmente excepcionalesNo permanezcamos indiferentes ante la venganza del poder que busca sepultarlo en vida#anarquismo #aislamiento #chile"
+  },
+  "request-360": {
+    "instance": "mastodon.top",
+    "tweet_index": 359,
+    "tweet": "\" Más de 4 millones de personas han muerto como consecuencia del #cambioclimáticoColectivos ecologistas como #JustStopOil o #FuturoVegetal intentamos mostrar la verdad que esconden las autoridades sobre la crisis climáticaEn esta lucha, estamos siendo brutalmente represaliadas, acusadas de criminales y ecoterroristas👉¿Quién son los verdaderos criminales? No pararemos porque nos están arrebatando el futuro. ¿Te unes a la lucha? ❤️‍🔥 \"Mira la entrevista entera en: https://www.ondacero.es/programas/la-rosa-de-los-vientos/audios-podcast/edad-mentira/activismo-cambio-climatico_202406246678cce7888bcf00014abc19.html"
+  },
+  "request-361": {
+    "instance": "mastodon.top",
+    "tweet_index": 360,
+    "tweet": "#todoporhacer #anarquismo #madrid #BienalAnarquistaDeMadrid #edicion Este viernes empieza la segunda edición de la Bienal Anarquista de Madrid, está vez se desarrollará en el CSO La Animosa (C/Mar de Japón, 15, Hortaleza).El evento girará alrededor de los puestos de más de 20 editoriales, charlas, talleres, mesas redondas, y espacio y tiempo para encontrarse.https://bienalanarquista.madrid/segunda-bienal-anarquista-de-madrid-2024https://www.todoporhacer.org/bam-bam-bam/"
+  },
+  "request-362": {
+    "instance": "mastodon.top",
+    "tweet_index": 361,
+    "tweet": "Il ne fait pas assez bon pour sortir aujourd'hui !#insecte #photographie"
+  },
+  "request-363": {
+    "instance": "mastodon.top",
+    "tweet_index": 362,
+    "tweet": "#manif #nantes Aujourd'hui c'était la manif contre les lois transphobesPhoto de la fin de manif sur fond de ciel joliment menaçant mais clément, place royale où on a placé un drapeau transanarchiste à la statue de la fontaine Drapeau trans en bandes horizontales bleu/rose/blanc/rose/bleuTagué au centre d'un sigle fusionnant le sigle A cerclé pour anarchie et le sigle transpédégouine"
+  },
+  "request-364": {
+    "instance": "mastodon.top",
+    "tweet_index": 363,
+    "tweet": "#nantes #soiréedesoutien #cantine #punkJ'y serai avec ma distro et mon infokiosque en compagnie d'autres createu.rice.y.sNafout' Crew présente VCNCS (punk HxC - rennes)Neufs Volts (punk - Tours)Le vendredi 07 juin 2024 à partir de 19h30 à la Dérive (quartier Dalby)Prix libre en soutien à L'Autre CantineBouffe vegan et distrosL'Autre Cantine réalise un repas tous les jours distribué à une centaine de SDF dont beaucoup de personnes exilées+ Infos et dons :https://www.helloasso.com/associations/l-autre-cantine"
+  },
+  "request-365": {
+    "instance": "mastodon.top",
+    "tweet_index": 364,
+    "tweet": "#FuturoVegetal #luttesociale #ChangementClimat #TotalEnergies #repression #ecologieCe matin, TotalEnergies nous a attaquées au tribunal pour avoir exposé son activité criminelleC'est le verdict d'une institution qui protège les intérêts du capital à tout prix, même si cela signifie ignorer la loi et condamner la vieNous ne nous arrêtons pas là, et vous ? Face à leur répression, soutien mutuel et plus d'action 🔥❤️Participe 👉 futurovegetal.org/participaSoutien 👉 https://opencollective.com/futurovegetal-resistencia/projects/accion-contra-totalenergies"
+  },
+  "request-366": {
+    "instance": "mastodon.top",
+    "tweet_index": 365,
+    "tweet": "#FuturoVegetal #justiciaclimática #ecosocial#TotalEnergies #luchasocial #ecologia #cambioclimaticoEsta mañana, TotalEnergies nos ha llevado a juicio por exponer su actividad criminalEste es el veredicto de una institución que protege los intereses del capital a toda costa, incluso cuando eso significa ignorar la ley y condenar la vidaNosotras no nos paramos aquí. ¿Y tù? Ante su represión, apoyo mutuo y más acción 🔥❤️Participa 👉 futurovegetal.org/participaApoya 👉 https://opencollective.com/futurovegetal-resistencia/projects/accion-contra-totalenergies"
+  },
+  "request-367": {
+    "instance": "mastodon.top",
+    "tweet_index": 366,
+    "tweet": "Especismo - Suicidio en el ámbito del trabajo salarial #FuturoVegetal #antiespecista #liberacionanimal #1mayo #luchasocial 1º de mayoDía internacional de las trabajadoras.La industria cárnica no solo es dañina para el medio ambiente o los animales, también arrasa con la salud mental de sus trabajadoras.Ayúdanos a ponerle freno 👈Futuro Vegetal - canal Telegram"
+  },
+  "request-368": {
+    "instance": "mastodon.top",
+    "tweet_index": 367,
+    "tweet": "#kurdistan #jinjiyanazadi #exiliats #turquiafascista #solidaridadinternacional #FirazKorkmazExiliats kurds ataquen la comitiva de gendarmeria fancesa que anava a entregar a Turquia al militant Firaz Korkmaz, enviat a Istanbul per ser extradit a Turquia.Más info: kurdiscat"
+  },
+  "request-369": {
+    "instance": "mastodon.top",
+    "tweet_index": 368,
+    "tweet": "1 collage et 3 peintures... Le tout en éclairage sous-sol c'donc aléatoire !"
+  },
+  "request-370": {
+    "instance": "mastodon.top",
+    "tweet_index": 369,
+    "tweet": "4 autres peintures et dessins..."
+  },
+  "request-371": {
+    "instance": "mastodon.top",
+    "tweet_index": 370,
+    "tweet": "Peintures que j'expose pour cette soirée..."
+  },
+  "request-372": {
+    "instance": "mastodon.top",
+    "tweet_index": 371,
+    "tweet": "J'expose des peintures, dessins et collage...J'y tiens un infokiosque avec zines, cartes, affiches, stickers, patchs...Il y a aussi mes micro-éditions...Je vous poste quelques photos !"
+  },
+  "request-373": {
+    "instance": "mastodon.top",
+    "tweet_index": 372,
+    "tweet": "#concert #infokiosque #microédition #expopeinture #queerpunk #performanceCe soir au squat le phénicien à Nantes Queer Punk Party20h/2h - Prix libreExpoInfokiosqueMicro-éditionPerformancesConcertDJ"
+  },
+  "request-374": {
+    "instance": "mastodon.top",
+    "tweet_index": 373,
+    "tweet": "Gardien de ruche, le piège ultime  pour les frelons asiatiques !https://leparede.org/gardien-de-ruche-le-piege-ultime-pour-les-frelons-asiatiques/#Animaux #Golb #Soins"
+  },
+  "request-375": {
+    "instance": "mastodon.top",
+    "tweet_index": 374,
+    "tweet": "#Mort de Luc #Montagnier :( Grand jusqu’au bout, il a demandé à ce que seul France Soir soit mis au courant. Obligeant les médias mainstream a passer par cette case et faisant ainsi avancer la mise en lumière de leurs alertes depuis deux ans. Merci monsieur et bon voyage !!!"
+  },
+  "request-376": {
+    "instance": "mastodon.top",
+    "tweet_index": 375,
+    "tweet": "#Mort de Luc #Montagnier :( Grand jusqu'au bout, il a demandé à ce que seul France Soir soit mis au courant. Obligeant les médias mainstream a passer par cette case et faisant ainsi avancer la mise en lumière de leurs alertes depuis deux ans. Merci monsieur et bon voyage !!!"
+  },
+  "request-377": {
+    "instance": "mastodon.top",
+    "tweet_index": 376,
+    "tweet": "On est pas bien #là ;)"
+  },
+  "request-378": {
+    "instance": "mastodon.top",
+    "tweet_index": 377,
+    "tweet": "#MitakuyeOyasin chez les lakota veut dire tous frères (mais quand ils disent tous, c'est tout, tous, tout, tout, tout)Pas mal comme message pour 2022 non ? ;)"
+  },
+  "request-379": {
+    "instance": "mastodon.top",
+    "tweet_index": 378,
+    "tweet": "RT @GraffitiRadical@twitter.com\"Sex is cool but have you ever fucked the patriarchial system\"Stencil seen in Brussels, Belgium🐦🔗: https://twitter.com/GraffitiRadical/status/1620022651128541184"
+  },
+  "request-380": {
+    "instance": "mastodon.top",
+    "tweet_index": 379,
+    "tweet": "RT @JulesDrmnn@twitter.comJ'ai entendu les appels de la rue et vais bientôt quitter mon poste d'éditeur de Playbook Paris. Je ferai un thread émouvant le moment venu, mais en attendant, venez me piquer le job ! Toutes les infos sont ici : https://jobs.mpleo.net/en/politico/00312🐦🔗: https://twitter.com/JulesDrmnn/status/1619950029937983488"
+  },
+  "request-381": {
+    "instance": "mastodon.top",
+    "tweet_index": 380,
+    "tweet": "RT @xmolenat@twitter.com🚨 Alerte Recrutement Journaliste🚨T'aimes bien @AlterEco_@twitter.com  ?Tu touches ta bille sur les sujets éco France, social  ou entreprises ?La data c'est ton kif ?Editer des textes ne te fait pas peur ?👉Fille ou garçon, pas d'hésitation, tu postules !https://fr.indeed.com/job/journaliste-web-hf-41bee308b7871631🐦🔗: https://twitter.com/xmolenat/status/1619368090407694338"
+  },
+  "request-382": {
+    "instance": "mastodon.top",
+    "tweet_index": 381,
+    "tweet": "⬇️⬇️⬇️"
+  },
+  "request-383": {
+    "instance": "mastodon.top",
+    "tweet_index": 382,
+    "tweet": "il a sorti le lance-flammesRT @olyvyer@twitter.comRetour de @Sale_Con@twitter.com sur la polémique du financement de l'audiovisuel public. Vous y apprendrez notamment comment il a loupé (de peu 🦷) l'oral pour devenir chroniqueur chez Hanouna...🐦🔗: https://twitter.com/olyvyer/status/1617437267039248384"
+  },
+  "request-384": {
+    "instance": "mastodon.top",
+    "tweet_index": 383,
+    "tweet": "RT @disturbingshirt@twitter.com🐦🔗: https://twitter.com/disturbingshirt/status/1619113900477239296"
+  },
+  "request-385": {
+    "instance": "mastodon.top",
+    "tweet_index": 384,
+    "tweet": "RT @RoseDeBerne@twitter.comThis you ? https://twitter.com/kevinbossuet/status/1619084789470072832🐦🔗: https://twitter.com/RoseDeBerne/status/1619282335027060737"
+  },
+  "request-386": {
+    "instance": "mastodon.top",
+    "tweet_index": 385,
+    "tweet": "RT @franceinter@twitter.com#Mégabassines  : un militant écologiste découvre un traceur GPS de la police sous son véhiculeLa préfecture confirme qu'il s'agit d'un dispositif utilisé à des fins de surveillance policière ➡️ https://l.franceinter.fr/GBb🐦🔗: https://twitter.com/franceinter/status/1618946149443944449"
+  },
+  "request-387": {
+    "instance": "mastodon.top",
+    "tweet_index": 386,
+    "tweet": "RT @davduf@twitter.comToujours sur nos gardes, comptez sur nous. https://twitter.com/J_Bardella/status/1619017157836427267🐦🔗: https://twitter.com/davduf/status/1619074435125755905"
+  },
+  "request-388": {
+    "instance": "mastodon.top",
+    "tweet_index": 387,
+    "tweet": "RT @InesBgc@twitter.comTrès fière de présenter l’affiche de mon premier documentaire solo, toujours avec le maillot @streetpress@twitter.com✨ 5 familles qui ont perdu un proche après une intervention de police racontent leur combat pour la justice. Avec @pour_gaye@twitter.com @cjvpourwissam@twitter.com @AlcabelardFatia@twitter.com @justicepourced1@twitter.com🐦🔗: https://twitter.com/InesBgc/status/1618944823473627137"
+  },
+  "request-389": {
+    "instance": "mastodon.top",
+    "tweet_index": 388,
+    "tweet": "RT @almondmilkhunni@twitter.comliterally how it feels🐦🔗: https://twitter.com/almondmilkhunni/status/1608011935186063360"
+  },
+  "request-390": {
+    "instance": "mastodon.top",
+    "tweet_index": 389,
+    "tweet": "RT @revuscorriges@twitter.com🎁 VOILÀ LES SOLDES ! 🎁1- Découvrez ou faites découvrir Revus & Corrigés avec le pack \"LA TOTALE\" (du n°1 au n°17), à -30%2- Profitez de -15% sur tous les numéros à l'unité avec le code promo : JAIMELAREVUERendez-vous sur notre boutique :👉 https://revusetcorriges.com/la-boutique/🐦🔗: https://twitter.com/revuscorriges/status/1613250436567388160"
+  },
+  "request-391": {
+    "instance": "mastodon.top",
+    "tweet_index": 390,
+    "tweet": "paris, le 25 décembre 1870 – 99e jour de siège. le pain manque, la viande manque, on mange du chat, du chien, du rat. tandis que les habitant·e·s sont rationné·e·s, les riches se goinfrent au restau : #mangezlesriches https://upload.wikimedia.org/wikipedia/commons/5/59/Menu-siegedeparis.jpg"
+  },
+  "request-392": {
+    "instance": "mastodon.top",
+    "tweet_index": 391,
+    "tweet": "Allemagne-en-Provence mais wtfRT @claradealberto@twitter.com🗺🌍🔍 De Soudan à Robert-Espagne en passant par Argentine, laissez-moi vous présenter : ✨ La carte des communes qui sont aussi un pays ✨🐦🔗: https://twitter.com/claradealberto/status/1618937067488124929"
+  },
+  "request-393": {
+    "instance": "mastodon.top",
+    "tweet_index": 392,
+    "tweet": "RT @franceculture@twitter.com🗓️ Rejoignez-nous ce vendredi dès 20h30 (c'est jusquà 23h 🥳) avec @fsaltiel@twitter.com sur Twitch !📌 Retour aux origines de l’afrofuturisme : quels sont ses imaginaires, ses utopies et sa portée politique ?➡️ On vous attend ici  : https://twitch.tv/franceculture🐦🔗: https://twitter.com/franceculture/status/1618938257244577793"
+  },
+  "request-394": {
+    "instance": "mastodon.top",
+    "tweet_index": 393,
+    "tweet": "la seconde femme ✨RT @SFCCinema@twitter.com[📣 - Prix SFCC] Le Syndicat Français de la Critique de Cinéma récompense les éditeurs de Livres sur le Cinéma !👇Les finalistes pour le prix du Meilleur Ouvrage Français sur le Cinéma 2022 sont connus !🏆 Verdict le 6 février à la @cinemathequefr@twitter.com #PrixSFCC2022🐦🔗: https://twitter.com/SFCCinema/status/1618628892994179072"
+  },
+  "request-395": {
+    "instance": "mastodon.top",
+    "tweet_index": 394,
+    "tweet": "26 maaaars OUIIIIRT @succession@twitter.comThis is a chessboard, and every move is crucial. Season 4 of #Succession premieres March 26 on @hbomax@twitter.com.🐦🔗: https://twitter.com/succession/status/1618640028690685952"
+  },
+  "request-396": {
+    "instance": "mastodon.top",
+    "tweet_index": 395,
+    "tweet": "RT @RoseDeBerne@twitter.comHé oui, c'est magique. https://twitter.com/renaudpila/status/1618236454538473472🐦🔗: https://twitter.com/RoseDeBerne/status/1618511409561866240"
+  },
+  "request-397": {
+    "instance": "mastodon.top",
+    "tweet_index": 396,
+    "tweet": "RT @dariamarx@twitter.comJe lis des trucs au réveil moi putain … COMMENT ÇA UNE DIÉTÉTICIENNE A 3 ANS ??? COMMENT ÇA S’ADRESSER À UN ENFANT DE 3 ANS QUI N’A AUCUN CONTRÔLE/COMPRÉHENSION DE LA BOUFFE ???🐦🔗: https://twitter.com/dariamarx/status/1618511600293654529"
+  },
+  "request-398": {
+    "instance": "mastodon.top",
+    "tweet_index": 397,
+    "tweet": "RT @letigreworld@twitter.comtell me without telling me you haven't toured in eighteen years🐦🔗: https://twitter.com/letigreworld/status/1618621141987495937"
+  },
+  "request-399": {
+    "instance": "mastodon.top",
+    "tweet_index": 398,
+    "tweet": "Packers and Movers Hyderabad for 100% Affordable and Professional Packers and Movers in Hyderabad Compare Charges of Movers and Packers, Household Shifting Services at. https://packersmovershyderabadcity.in/"
+  },
+  "request-400": {
+    "instance": "mastodon.top",
+    "tweet_index": 399,
+    "tweet": "Merci Olivier Hervé ! (à commander en librairie ou directement chez l'éditeur : https://cactusinebranlableeditions.com/produit/la-cabinet-lambda-5014-citations-a-siroter-croquer-injecter-ou-infuser/"
+  },
+  "request-401": {
+    "instance": "mastodon.top",
+    "tweet_index": 400,
+    "tweet": "Modèle de déclaration de consentement sexuel (à l'attention de millionnaires, milliardaires, célébrités, sportifs, politiques, journalistes, hommes, femmes, autres)"
+  },
+  "request-402": {
+    "instance": "mastodon.top",
+    "tweet_index": 401,
+    "tweet": "Spoiler alert :"
+  },
+  "request-403": {
+    "instance": "mastodon.top",
+    "tweet_index": 402,
+    "tweet": "« Sur un malentendu, ça peut marcher. »À commander chez votre libraire ou directement ici https://www.librairiewb.com/ ou là https://cactusinebranlableeditions.com/(pas sur Amazon)"
+  },
+  "request-404": {
+    "instance": "mastodon.top",
+    "tweet_index": 403,
+    "tweet": "Merci au Lorgnon mélancolique et à Patrick Corneau pour sa lecture bienveillante ! https://www.patrickcorneau.fr/2024/09/67598/"
+  },
+  "request-405": {
+    "instance": "mastodon.top",
+    "tweet_index": 404,
+    "tweet": "Merci cher Jean-Pierre Longre pour cette jolie chronique ! http://jplongre.hautetfort.com/"
+  },
+  "request-406": {
+    "instance": "mastodon.top",
+    "tweet_index": 405,
+    "tweet": "Ceci n'est pas un fait mais une suggestion.À commander chez votre libraire ou directement ici https://www.librairiewb.com/.../9782390491040-la.../... ou là https://cactusinebranlableeditions.com/.../la-petite.../(pas sur Amazon)"
+  },
+  "request-407": {
+    "instance": "mastodon.top",
+    "tweet_index": 406,
+    "tweet": "Son secret beauté ? La nuit, elle dort nue dans sa Petite robe noire du néant."
+  },
+  "request-408": {
+    "instance": "mastodon.top",
+    "tweet_index": 407,
+    "tweet": "Finalement beaucoup de monde était présent à #Chambéry pour cet hommage à Paul.Sincères remerciements à l'exploitant du manège de la place de la mairie qui a stoppé son manège et la musique pendant le temps de recueillement.#NousSommesPaulVarry#STOPAuxViolencesMotorisees #velo"
+  },
+  "request-409": {
+    "instance": "mastodon.top",
+    "tweet_index": 408,
+    "tweet": "La carte des différents rassemblements (élaborée par la #fub et @parisenselle ), en local, #chambery #grenoble #annecy #STOPAuxViolencesMotoriseeshttps://framacarte.org/fr/map/rassemblements-hommage-a-paul-19-octobre_197240#6/46.791/2.065NB : Pas de point dans les territoires ultra-marins à l'heure de ce pouet (d'où une carte de métropole)"
+  },
+  "request-410": {
+    "instance": "mastodon.top",
+    "tweet_index": 409,
+    "tweet": "#GrandChambéry lance sa saison cyclable avec cette nouvelle piste rouge n°8 entre #chambery  et #Cognin Frissonnez au long de cette bande cyclable technique et exigeante, au plus près du trafic automobile !Piste rouge réservée aux pilotes aguerris. Déconseillée aux débutant.e.s, les enfants doivent être accompagnés d’un adulte.https://www.ledauphine.com/transport/2024/10/16/roue-libre-s-attaque-a-la-piste-rouge-cyclable-chambery-cognin"
+  },
+  "request-411": {
+    "instance": "mastodon.top",
+    "tweet_index": 410,
+    "tweet": "#Eau et #Climat #Savoie #LacduBourget par le #cisalbEnquête de concertation sur votre perception des enjeux de la ressource en eau et des usages sur le territoire du bassin versant du lac du #Bourget (#chambéry #aixlesbains ...)Objectifs : orienter et de consolider le Projet de Territoire pour la Gestion de l’Eau, futur plan d’actions que les pouvoirs publics vont mettre en œuvre pour les 10 ans à venir.https://www.cisalb.fr/Enquete-citoyenne-Eau-Climat"
+  },
+  "request-412": {
+    "instance": "mastodon.top",
+    "tweet_index": 411,
+    "tweet": "#landart improbable avec une pente d'éboulis associée à une ruine qui ressemble à une tête de serpent"
+  },
+  "request-413": {
+    "instance": "mastodon.top",
+    "tweet_index": 412,
+    "tweet": "Oyez Oyez, projection du superbe documentaire \"les roues de l'avenir\" demain samedi 05 octobre 2024 à #SaintJeanDeMaurienne https://espace-culturel-lesavoie.fr/films/les-roues-de-lavenir/#Maurienne #SolutionVelo"
+  },
+  "request-414": {
+    "instance": "mastodon.top",
+    "tweet_index": 413,
+    "tweet": "La taille S d'un VTT passe encore dans la benne du #VeloCargo (c'est limite et il faut sangler).J'attends avec impatience le retour de mes sacoches #bakkies (le SAV a été nickel)."
+  },
+  "request-415": {
+    "instance": "mastodon.top",
+    "tweet_index": 414,
+    "tweet": "#GrandChambery en réunion : les marquages #vélo seront-ils antidérapants ? Blablabla, on connaît notre métier, nous sommes des professionnels, vous êtes seulement des usagers...La réalisation sur place : les marquages sur la voirie sont effectivement antidérapants, ceux sur le trottoir où l'aménagement cyclable impose aux cyclistes de tourner sont lisses. Merci pour la glisse ! 🙃"
+  },
+  "request-416": {
+    "instance": "mastodon.top",
+    "tweet_index": 415,
+    "tweet": "Le mont #ventoux en #triporteur (3 fois dans la même journée si j'ai bien compris) même @grincheux n'a pas osé !https://www.ledauphine.com/sport/2024/09/27/l-odysee-d-un-triporteur-avec-trois-ascensions-du-mont-ventoux"
+  },
+  "request-417": {
+    "instance": "mastodon.top",
+    "tweet_index": 416,
+    "tweet": "Vous êtes voyageur.se à #velo  et vous avez un film ou un diaporama que vous souhaiteriez présenter au festival  #velosons  2025 (du 28 au 30 mars à #chambery).La sélection des projets retenus se fera à l’automne 2024.https://velosons.rouelibre.net/Le repouet favorise les rencontres !"
+  },
+  "request-418": {
+    "instance": "mastodon.top",
+    "tweet_index": 417,
+    "tweet": "\"On ne sait pas faire d'ouvrage mixte avec Réseau Ferré de France (NDR : les gestionnaires d'ouvrages pour la SNCF), c'est compliqué, blablabla !\" maxime entendue en réunion avec #GrandChambéry Les autres collectivités, pendant ce temps-là : ⤵️ Chouette vidéo dans l'article.https://actu.fr/ile-de-france/houilles_78311/yvelines-traverser-seine-velo-depuis-houilles-sera-possible-2022_25641941.html"
+  },
+  "request-419": {
+    "instance": "mastodon.top",
+    "tweet_index": 418,
+    "tweet": "La politique cyclable de #GrandChambery en une image...Elle n'est pas à la hauteur des besoins et des attentes en matière de #solutionvelo"
+  },
+  "request-420": {
+    "instance": "mastodon.top",
+    "tweet_index": 419,
+    "tweet": "Relais de l #af3v (qui viendra peut-être un jour sur mastodon pour parler #velo)L'association souhaite connaitre votre expérience sur #monvelodansletrain en matière de #solutionvelo Le questionnaire porte sur un voyage à vélo où vous avez utilisé le train.https://docs.google.com/forms/d/e/1FAIpQLSez_Sc7Wq5G7ikLF02jseTxFjfniJeE_WqnnbDYUEENbBxBuA/viewformhttps://af3v.org/wp-content/uploads/2024/08/Fiche-outil-intermodalite-velo-tc-V26-07-24.pdf"
+  },
+  "request-421": {
+    "instance": "mastodon.top",
+    "tweet_index": 420,
+    "tweet": "Le container de poubelle passe #dansmesbakkies ! #carryshitolympics #solutionvelo"
+  },
+  "request-422": {
+    "instance": "mastodon.top",
+    "tweet_index": 421,
+    "tweet": "#upcycling #velo vraiment très chouette, ce recyclage de chaîne. Et il y avait d'autres belles choses à voir dans la galerie."
+  },
+  "request-423": {
+    "instance": "mastodon.top",
+    "tweet_index": 422,
+    "tweet": "La première balade à #velo des résidents de l’Ehpad aixois des Grillons a eu lieu ce jeudi 18 juillet. Trois résidents ont pu retrouver le grand air grâce à une convention avec l’association “À vélo sans âge”.#savoie #aixlesbains #solutionvelo https://www.ledauphine.com/social/2024/07/22/des-balades-en-triporteur-pour-les-residents-des-grillons"
+  },
+  "request-424": {
+    "instance": "mastodon.top",
+    "tweet_index": 423,
+    "tweet": "#Savoie #vtt #lacdubourget #chambery NB : ce chemin est physique, localement technique et exposé."
+  },
+  "request-425": {
+    "instance": "mastodon.top",
+    "tweet_index": 424,
+    "tweet": "La blague relevée en juin sur #osm avec le hacking qui vient d'un pays de l'Est est toujours présente dans le cache de certains niveaux de zoom sur le fond #cyclosm seulement..."
+  },
+  "request-426": {
+    "instance": "mastodon.top",
+    "tweet_index": 425,
+    "tweet": "Croisé au bord d'une route vers 1200 m d'altitude : un fond marin fossile (les rides de courant sont parfaitement visibles)#géologie"
+  },
+  "request-427": {
+    "instance": "mastodon.top",
+    "tweet_index": 426,
+    "tweet": "Le marquage #Cognin à #vélo n'a pas pu être terminé suite à l'intervention assez surprenante de la BAC (l'image de droite illustre le final attendu). Aucun des marquages n'est à connotation politique et ils visent à promouvoir l'usage du #vélo ce qui fait pourtant sens dans le cadre du #tour2024."
+  },
+  "request-428": {
+    "instance": "mastodon.top",
+    "tweet_index": 427,
+    "tweet": "Commencé The Days, série Netflix consacrée au tsunami de 2011 et à la catastrophe de Fukushima. Clairement l'influence de Chernobyl se ressent, et pas que par la proximité des sujets. Mais je reste curieux, surtout avec Hideo Nakata aux commandes de certains épisodes."
+  },
+  "request-429": {
+    "instance": "mastodon.top",
+    "tweet_index": 428,
+    "tweet": "44 milliards de dollar imaginez le nombre de fois que Pécresse remboursait son emprunt"
+  },
+  "request-430": {
+    "instance": "mastodon.top",
+    "tweet_index": 429,
+    "tweet": "Bonjour à tous les fuyards du Muskverse 👋 et bisous à tous les anciens qui doivent se dire : WTF"
+  },
+  "request-431": {
+    "instance": "mastodon.top",
+    "tweet_index": 430,
+    "tweet": "\"Aborder la pornographie comme objet d’étude n’est pas un chemin facile. Le pas y est délicat et fébrile, faut-il pour autant renoncer ?\"Avec Cael Céline, nous partageons une piste pédagogique d'éducation à la sexualité⬇️📑⬇️https://svt.ac-creteil.fr/?La-lettre-thematique-Education-a-la-sexualite-no11"
+  },
+  "request-432": {
+    "instance": "mastodon.top",
+    "tweet_index": 431,
+    "tweet": "\"Ouvrir les portes de l'école !\"Et si, c’était en s’ouvrant et en tissant des liens que l’école pouvait le mieux remplir ses missions ?Classe dehors, éduc. pop., intergénérationnel, partenariat culturel, activités sportives, ...RDV ce lundi aprem ⬇️https://www.cahiers-pedagogiques.com/ouvrir-les-portes-de-lecole/"
+  },
+  "request-433": {
+    "instance": "mastodon.top",
+    "tweet_index": 432,
+    "tweet": "Élèves, seniors, profs, associations : travailler ensemble.Un élève de seconde réalise une vidéo pour présenter le travail entre les générations. #coopération #EPS⬇️🎬⬇️https://feydercoop.wordpress.com/2023/10/16/travailler-avec-les-seniors/"
+  },
+  "request-434": {
+    "instance": "mastodon.top",
+    "tweet_index": 433,
+    "tweet": "\"Allez, personne ne veut être #délégués ? Vous êtes sûr ?Peut-on agir au sein de nos établissements pour insuffler davantage de #démocratie ?Article coécrit avec @cmorzadec, Alexis et Raphaël pour @CahiersPedago ⬇️📑⬇️https://www.cahiers-pedagogiques.com/quand-lelection-des-delegues-de-classe-ne-mobilise-plus/"
+  },
+  "request-435": {
+    "instance": "mastodon.top",
+    "tweet_index": 434,
+    "tweet": "\"Savoir c'est bien. Savoir comment on sait c'est mieux.\"Révision collective du premier chapitre en terminale Spé #SVTSeul, en groupe de 3, puis tous ensemble les élèves reprennent le cours en listant les idées et en cherchant les arguments associés#coopération"
+  },
+  "request-436": {
+    "instance": "mastodon.top",
+    "tweet_index": 435,
+    "tweet": "𝗦’𝗲𝗻𝗴𝗮𝗴𝗲𝗿, 𝗼𝘂𝗶 ! 𝗠𝗮𝗶𝘀 𝗽𝗼𝘂𝗿 𝗲𝘁 𝗮𝘃𝗲𝗰 𝗹𝗲𝘀 𝗮𝘂𝘁𝗿𝗲𝘀.Quelques pistes pour encourager l'engagement avec les autres.⬇️📑⬇️https://www.cafepedagogique.net/2023/10/02/sengager-oui-mais-pour-et-avec-les-autres/"
+  },
+  "request-437": {
+    "instance": "mastodon.top",
+    "tweet_index": 436,
+    "tweet": "\"On a vu que le travail de groupe n’est pas toujours avantageux.\"Ela, Aminata et Mélina, élèves en 2nde, racontent leur #formation au travail en #équipe et comment la classe a défini des conseils pour le rendre utile.#feydercoop⬇️Article d'élève ⬇️https://feydercoop.wordpress.com/2023/09/29/evalue-mais-pas-note/"
+  },
+  "request-438": {
+    "instance": "mastodon.top",
+    "tweet_index": 437,
+    "tweet": "\"L'aide entre pairs s'organise et ne s'impose pas.\"Ce matin, les élèves de 2nd coop ont fait une heure d' #entraide : temps où ils peuvent coopérer si ils le souhaitent en fonction du travail qu'ils planifient.#feydercoop #coopération⬇️Détails p.67⬇️ https://www.esf-scienceshumaines.fr/education/415-faire-collectif-pour-apprendre.html"
+  },
+  "request-439": {
+    "instance": "mastodon.top",
+    "tweet_index": 438,
+    "tweet": "D'un casier à un autre ... Tout est prêt pour demain : ▶️ formation élèves sur le travail en équipe et  réflexions sur l'#évaluation et la #coopération.Passage de relai @jmprofHG  🤝🏻A suivre #feydercoop ou dans le chapitre 4 \"Travaillez ensemble\"⬇️https://www.esf-scienceshumaines.fr/education/415-faire-collectif-pour-apprendre.html"
+  },
+  "request-440": {
+    "instance": "mastodon.top",
+    "tweet_index": 439,
+    "tweet": "\"Madame, c'est noté ?\"  Des chamallows pour faire d'une pierre deux coups :➡️ Former les élèves au travail en #équipe ➡️Montrer qu’une #évaluation n’est pas une note  Retour de pratique par Cael Céline #feydercoop (avec Cyril Lascassies )A lire⬇️https://feydercoop.wordpress.com/2023/09/23/madame-cest-note/"
+  },
+  "request-441": {
+    "instance": "mastodon.top",
+    "tweet_index": 440,
+    "tweet": "\"On a appris à créer une amitié de travail\".Gabriel et Hamilton, élèves dans une classe de seconde #coopération reviennent sur leur sortie de #cohésion dans #Paris .#feydercoop⬇️article d'élève⬇️https://feydercoop.wordpress.com/2023/09/16/on-a-appris-a-creer-une-amitie-de-travail/"
+  },
+  "request-442": {
+    "instance": "mastodon.top",
+    "tweet_index": 441,
+    "tweet": "Car aux @CahiersPedago on ne se contente pas de croire aux forces de l'écrit, on les organise.Premier comité de rédaction de l'année 2023-2024."
+  },
+  "request-443": {
+    "instance": "mastodon.top",
+    "tweet_index": 442,
+    "tweet": "\"Mettre des paillettes dans un cours\"🎉Premier cours de #SVT en 2nd : une occasion de travailler le #doute 🤔par la #coopération 🤝Des avis au doute, et du doute à l'#expérimentation pour éviter la défiance généralisée.⬇️Résumé et activité ici⬇️https://www.cahiers-pedagogiques.com/covid-et-paillettes/"
+  },
+  "request-444": {
+    "instance": "mastodon.top",
+    "tweet_index": 443,
+    "tweet": "\"L'efficacité de toute pratique dépend surtout du niveau de formation des enseignants, de leurs connaissances de l'histoire et de l'actualité de la pédagogie [...]\"Un éclairage nécessaire sur les pédagogies alternatives, pour ne pas les abandonner à l'enseignement privé, par @laurencedecock1 dans le @mdiplo"
+  },
+  "request-445": {
+    "instance": "mastodon.top",
+    "tweet_index": 444,
+    "tweet": "𝙇𝙖 𝙧𝙚𝙣𝙩𝙧é𝙚 𝙨𝙘𝙤𝙡𝙖𝙞𝙧𝙚 : une occassion pour tisser du lien ?Une proposition en 3h avec alternance de :▶️  temps 𝐢𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐞𝐥 pour rassurer ▶️  temps 𝐜𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐟  pour amorcer la #coopération Retour sur la rentrée 2022⬇️https://feydercoop.wordpress.com/2021/09/03/je-mattendais-a-une-rentree-habituelle/"
+  },
+  "request-446": {
+    "instance": "mastodon.top",
+    "tweet_index": 445,
+    "tweet": "La classe résonne 🎧🚸Le #podcast des @CahiersPedago  revient en 2023.Des témoignages de collègues, des partages de pratique et des idées à tester en #classe. #education #teamprof #teameduc RDV dans quelques jours...⏳⬇️🎧 Rétro 2022🎤⬇️https://www.cahiers-pedagogiques.com/categories/les-podcasts/"
+  },
+  "request-447": {
+    "instance": "mastodon.top",
+    "tweet_index": 446,
+    "tweet": "«En formation, il n’existe pas de solution toute faite, mais une recherche d’équilibre entre l’enseignant,les élèves et les savoirs» Ravi de cet échange sur «Le mythe de la négociation des besoins» de B.Charlot pour la revue diversité  #CAFFA #formation #teamprof ⬇️https://publications-prairial.fr/diversite/index.php?id=3035"
+  },
+  "request-448": {
+    "instance": "mastodon.top",
+    "tweet_index": 447,
+    "tweet": "\"Que cette école soit celle des enfants qui ne peuvent se passer d'école; parce qu'ils n'ont qu'elle...\"-Élise et Célestin Freinet-\"Une journée fasciste\", un \"polar\" historique documenté aussi captivant que nécessaire pour tisser pédagogie et politique, et se souvenir.Merci @laurencedecock1"
+  },
+  "request-449": {
+    "instance": "mastodon.top",
+    "tweet_index": 448,
+    "tweet": "L’innovation en pédagogie ce n’est pas du marketing.\"Difficile de définir ce qu’est l’innovation pédagogique, il est plus aisé de clarifier ce qu’elle n’est pas, et ne devrait pas être.\"#éducation #innovation #pédagogie #teamEduc ⬇️Tribune pour libération  ⬇️https://www.liberation.fr/forums/innovation-pedagogique-ou-en-est-on-20221114_UPVKQERVFRCIFFA3L6NMSSBM2Y/"
+  },
+  "request-450": {
+    "instance": "mastodon.top",
+    "tweet_index": 449,
+    "tweet": "\"Au lieu de s'entraider, on a appris à s'aider\"Sabrina, élève de 2nd #coopération au lycée #feyder raconte cette heure coop où on a appris à comment aider et demander de l'aide pour que ce soit utile à toutes et tous.⬇️Article d'élève ⬇️https://feydercoop.wordpress.com/2022/11/10/au-lieu-de-sentraider-on-a-appris-a-saider/#teamEduc #teamPE #teamProf #éducation #école"
+  },
+  "request-451": {
+    "instance": "mastodon.top",
+    "tweet_index": 450,
+    "tweet": "Salut Mastodon ! L’école de journalisme de Lannion recrute son prochain ou sa prochaine responsable de l’audiovisuel. Pour se porter candidat c’est juste là avec la description du poste. Le recrutement est toujours en cours, n’hésitez pas, l’équipe est super, les étudiants aussi… et la mer est à dix minutes de l’école dans la plus belle region du monde, peuplée de Bretons et d’une vie sauvage magnifique. https://place-emploi-public.gouv.fr/offre-emploi/assistant-e-audiovisuel--reference-2022-1074587/"
+  },
+  "request-452": {
+    "instance": "mastodon.top",
+    "tweet_index": 451,
+    "tweet": "Et dire qu’on est que mardi… la saison du déluge de mails a repris. Plus que quelques milliers à traiter…"
+  },
+  "request-453": {
+    "instance": "mastodon.top",
+    "tweet_index": 452,
+    "tweet": "Bonjour Mastodon, quelqu’un a un hack pour comprendre les ferrys écossais ?(je crois que j’ai pas les bons diplômes)"
+  },
+  "request-454": {
+    "instance": "mastodon.top",
+    "tweet_index": 453,
+    "tweet": "Un rendez-vous important à Paris pour les journalistes pigistes, à l'occasion de la parution du « Manuel des droits des pigistes » du @SnjCgt. Ça se passe lundi dès 18h30 à la Bourse du travail, avec des débats et échanges sur les problématiques rencontrées par les précaires"
+  },
+  "request-455": {
+    "instance": "mastodon.top",
+    "tweet_index": 454,
+    "tweet": "RFI coupée au Burkina Faso « jusqu’à nouvel ordre »"
+  },
+  "request-456": {
+    "instance": "mastodon.top",
+    "tweet_index": 455,
+    "tweet": "Du mal à choisir"
+  },
+  "request-457": {
+    "instance": "mastodon.top",
+    "tweet_index": 456,
+    "tweet": "Une nuit d’actu. Un (petit) accord à la COP27. Et une info foot qui déborde sur tout le reste."
+  },
+  "request-458": {
+    "instance": "mastodon.top",
+    "tweet_index": 457,
+    "tweet": "Cet échange entre des naufragés dans la Manche et le centre de sauvetage en mer du Pas-de-Calais est aussi déchirant que révoltant"
+  },
+  "request-459": {
+    "instance": "mastodon.top",
+    "tweet_index": 458,
+    "tweet": "La Russie sera tenue responsable et devra payer des réparations à l’Ukraine, c’est ce qu’ont décidé une majorité écrasante de pays réunis à l’ONU"
+  },
+  "request-460": {
+    "instance": "mastodon.top",
+    "tweet_index": 459,
+    "tweet": "Le monde part en vrille"
+  },
+  "request-461": {
+    "instance": "mastodon.top",
+    "tweet_index": 460,
+    "tweet": "Journée de montage sur Premiere Pro, j’ai enfin pu faire la paix avec Adobe"
+  },
+  "request-462": {
+    "instance": "mastodon.top",
+    "tweet_index": 461,
+    "tweet": "Au Conseil d’Administration d’Audiens ce jeudi. Le groupe qui assure la protection sociale dans le secteur des médias et de la culture vient d’annoncer la création d’une aide pour les journalistes payés à la pige. Ils pourront obtenir une aide psychologique, après avoir travaillé sur des terrains de guerre, de conflits, dans des manifestations violentes… C’est important parce que beaucoup vivent dans une précarité extrême et n’avaient pas accès à ce type d’aide jusqu’à présent."
+  },
+  "request-463": {
+    "instance": "mastodon.top",
+    "tweet_index": 462,
+    "tweet": "Grosse soirée et grosse nuit à venir sur France 24. On va se demander où vont les États-Unis avec les élections de mi-mandat qui ont débuté. Déjà 42 millions de personnes ont voté par correspondance pour désigner l’ensemble de la Chambre des représentants mais aussi un tiers du Sénat, ainsi que des postes clés de gouverneurs ou de secrétaires d’État."
+  },
+  "request-464": {
+    "instance": "mastodon.top",
+    "tweet_index": 463,
+    "tweet": "RT @ln_dev7@twitter.comC’est pas ça être inspiré ? 😂https://github.com/kleampa/not-paid🐦🔗: https://twitter.com/ln_dev7/status/1614034843188301826"
+  },
+  "request-465": {
+    "instance": "mastodon.top",
+    "tweet_index": 464,
+    "tweet": "RT @Backseat_fr@twitter.comLa pré-rentrée de #Backseat, ça commence dans 10 minutes, sur http://twitch.tv/jeanmassiet ! 🔥Venez nombreux pour découvrir le nouveau plateau lors du Before, ainsi que les surprises qui seront révélées tout au long de l’émission ! 👀🐦🔗: https://twitter.com/Backseat_fr/status/1613594280479571968"
+  },
+  "request-466": {
+    "instance": "mastodon.top",
+    "tweet_index": 465,
+    "tweet": "RT @reesmarc@twitter.comDonc @education_gouv@twitter.com vient aussi de me transmettre le rapport #McKinsey1. Ma demande initiale remontait au 19/01/22 2. j'ai eu un avis CADA positif (ci dessous)3. Et ai lancé une procédure devant le tribunal administratif avec @AFOCobhthaigh@twitter.comLien : https://filesender.renater.fr/?s=download&token=9c5ef8de-e022-432f-a4dc-0f73668d9bb8🐦🔗: https://twitter.com/reesmarc/status/1613209523581292547"
+  },
+  "request-467": {
+    "instance": "mastodon.top",
+    "tweet_index": 466,
+    "tweet": "RT @MacGeneration@twitter.comHandbrake encode en AV1 https://www.macg.co/logiciels/2022/12/handbrake-encode-en-av1-133779🐦🔗: https://twitter.com/MacGeneration/status/1608722234939478016"
+  },
+  "request-468": {
+    "instance": "mastodon.top",
+    "tweet_index": 467,
+    "tweet": "RT @AEffondrement@twitter.com🟢 #Thread - La Trajectoire 1,5 °C est-elle vraiment si insupportable pour un citoyen moyen ? ⚠️👉 On parle souvent de cette trajectoire comme  \"insupportable\", je vous propose un fil qui mêle la prise en compte de politique structurelle ET des changements de comportements. ⤵️🐦🔗: https://twitter.com/AEffondrement/status/1551503292898893824"
+  },
+  "request-469": {
+    "instance": "mastodon.top",
+    "tweet_index": 468,
+    "tweet": "Cadeau ! Une photo de mon #chat pour les fêtes 🎁"
+  },
+  "request-470": {
+    "instance": "mastodon.top",
+    "tweet_index": 469,
+    "tweet": "RT @JeanMassiet@twitter.comJANVIER 2023 à vous de jouer : http://utip.io/JeanMassietStream d’annonce demain vendredi à 15h : http://twitch.tv/JeanMassiet🐦🔗: https://twitter.com/JeanMassiet/status/1605971680139939842"
+  },
+  "request-471": {
+    "instance": "mastodon.top",
+    "tweet_index": 470,
+    "tweet": "RT @caissesdegreve@twitter.com[Convention sur la diversité biologique]\"Les politiques ont de grandes ambitions.Je voudrais qu'on substitue au mot 'ambition' le mot 'humilité'.Cette humilité qui nous conduit à observer la nature et essayer de nous y adapter plutôt que de lui imposer notre vision des choses\"🐦🔗: https://twitter.com/caissesdegreve/status/1598699358278541312"
+  },
+  "request-472": {
+    "instance": "mastodon.top",
+    "tweet_index": 471,
+    "tweet": "RT @Natalhea_@twitter.comParce que le harcèlement ne devrait jamais rester impuni. 1/19🐦🔗: https://twitter.com/Natalhea_/status/1598645365665849344"
+  },
+  "request-473": {
+    "instance": "mastodon.top",
+    "tweet_index": 472,
+    "tweet": "RT @AFA_Paris75@twitter.comBonjour @Fnac@twitter.com vous vendez ce \"livre\" qui a inspiré Brenton Tarrant a commettre une tuerie de masse raciste en Nouvelle-Zélande, allez-vous aussi le censurer ? https://twitter.com/Fnac/status/1596914152672747522🐦🔗: https://twitter.com/AFA_Paris75/status/1596990838571433984"
+  },
+  "request-474": {
+    "instance": "mastodon.top",
+    "tweet_index": 473,
+    "tweet": "RT @ClaireNouvian@twitter.com🚨Pillage des eaux africaines par la France, transfuge public-privé, collusion entre l’État et les lobbies industriels, destruction environnementale... nous révélons avec @anticor_org@twitter.com une affaire explosive et gravissime.Tenez-vous bien, c'est démentiel.RT sans retenue.🧵🐦🔗: https://twitter.com/ClaireNouvian/status/1592069919138811906"
+  },
+  "request-475": {
+    "instance": "mastodon.top",
+    "tweet_index": 474,
+    "tweet": "RT @argevise@twitter.comRECOMMANDATIONS DE SÉCURITÉ RELATIVES À UN SYSTÈME GNU/LINUX. Via @ANSSI_FR@twitter.com https://www.ssi.gouv.fr/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/https://www.ssi.gouv.fr/uploads/2019/02/fr_np_linux_configuration-v2.0.pdf🐦🔗: https://twitter.com/argevise/status/1588959208883752962"
+  },
+  "request-476": {
+    "instance": "mastodon.top",
+    "tweet_index": 475,
+    "tweet": "RT @USIEvents@twitter.com[#Cloud] 🤩 On vous ouvre en exclu l'accès au talk de Benjamin Bayart, speaker #USI2022, sur le #Cloud souverain & la Géopolitique de la #data :  👉https://bit.ly/3ddbuja@bayartb@twitter.com🐦🔗: https://twitter.com/USIEvents/status/1555431478711967744"
+  },
+  "request-477": {
+    "instance": "mastodon.top",
+    "tweet_index": 476,
+    "tweet": "RT @stephenlacy@twitter.comI am uncovering what seems to be a massive widespread malware attack on @github@twitter.com.- Currently over 35k repositories are infected- So far found in projects including: crypto, golang, python, js, bash, docker, k8s- It is added to npm scripts, docker images and install docs🐦🔗: https://twitter.com/stephenlacy/status/1554697077430505473"
+  },
+  "request-478": {
+    "instance": "mastodon.top",
+    "tweet_index": 477,
+    "tweet": "RT @CPolF5@twitter.com« A quoi est-ce qu'on reconnait un état civilisé ? C'est quand il dit : \"J'ai merdé\"» François Sureau, académicien, au sujet de la finale de la Ligue des championsLa suite ➡️ https://france.tv/france-5/c-politique/🐦🔗: https://twitter.com/CPolF5/status/1541109522386898944"
+  },
+  "request-479": {
+    "instance": "mastodon.top",
+    "tweet_index": 478,
+    "tweet": "RT @CPolF5@twitter.com« A quoi est-ce qu'on reconnait un état civilisé ? C'est quand il dit : \"J'ai merdé\"» François Sureau, académicien, au sujet de la finale de la Ligue des championsLa suite ➡️ https://france.tv/france-5/c-politique/🐦🔗: https://twitter.com/CPolF5/status/1541109522386898944"
+  },
+  "request-480": {
+    "instance": "mastodon.top",
+    "tweet_index": 479,
+    "tweet": "RT @caissesdegreve@twitter.com\"Ils ne sont pas pro-vie, ils sont anti-femmes\"George Carlin, 1996.#RoeVsWade #avortement🐦🔗: https://twitter.com/caissesdegreve/status/1541013325059969026"
+  },
+  "request-481": {
+    "instance": "mastodon.top",
+    "tweet_index": 480,
+    "tweet": "RT @caissesdegreve@twitter.com\"Ils ne sont pas pro-vie, ils sont anti-femmes\"George Carlin, 1996.#RoeVsWade #avortement🐦🔗: https://twitter.com/caissesdegreve/status/1541013325059969026"
+  },
+  "request-482": {
+    "instance": "mastodon.top",
+    "tweet_index": 481,
+    "tweet": "RT @caissesdegreve@twitter.com@SaintHoax@twitter.com French translation🐦🔗: https://twitter.com/caissesdegreve/status/1540750046085484544"
+  },
+  "request-483": {
+    "instance": "mastodon.top",
+    "tweet_index": 482,
+    "tweet": "RT @SaintHoax@twitter.comThis. All of this. Every word. #RoeVsWade🐦🔗: https://twitter.com/SaintHoax/status/1540363850876346371"
+  },
+  "request-484": {
+    "instance": "mastodon.top",
+    "tweet_index": 483,
+    "tweet": "Lyokoï présente le Wiktionnaire.Quelques points clés :* En moyenne, le Wiktionnaire décrit un mot 8 ans avant son arrivée dans un dictionnaire papier ;* Le Wiktionnaire décrit un mot dès que son usage est attesté et sourçable, par exemple dans un livre, un pouet, un message sur un forum, un article de presse..."
+  },
+  "request-485": {
+    "instance": "mastodon.top",
+    "tweet_index": 484,
+    "tweet": "Lepticed et Lyokoï, deux contributeurs du Wiktionnaire, animent une session de « jeu de thésaurus » pendant la #WikiConvFR.Le Wiktionnaire n'est en effet pas qu'un simple dictionnaire de définitions : il propose  des #thésaurus (un champ sémantique autour d'un mot), des tableaux de #conjugaison, des listes de #rimes...L'occasion pour un contributorat majoritairement wikipédien de découvrir un autre type de contribution !"
+  },
+  "request-486": {
+    "instance": "mastodon.top",
+    "tweet_index": 485,
+    "tweet": "Le stand #WikimédiaFrance est installé au salon #Primevère à #Lyon, emplacement C 202. Des membres de notre communauté vous accueilleront pendant les trois jours pour vous parler de #Wikipédia, #Wiktionnaire, #Wikisource, #Wikidata et les autres projets frères !"
+  },
+  "request-487": {
+    "instance": "mastodon.top",
+    "tweet_index": 486,
+    "tweet": "Question cruciale : avez-vous vu cet épisode où Monk hue sur la commode ?"
+  },
+  "request-488": {
+    "instance": "mastodon.top",
+    "tweet_index": 487,
+    "tweet": "Mario Party Jamboree me fait aimer le plateau western de Mario Party 2. Le lifting moderne lui apporte beaucoup en lisibilité, je trouve."
+  },
+  "request-489": {
+    "instance": "mastodon.top",
+    "tweet_index": 488,
+    "tweet": "J'ai pu mettre la main sur un iPhone 16 Plus. Le charme opère, mais devriez-vous pour autant faire l’upgrade ? On en discute dans ce nouvel épisode du podcast Tech Two !🎙️ https://www.blueprint.pm/tech-two-106/"
+  },
+  "request-490": {
+    "instance": "mastodon.top",
+    "tweet_index": 489,
+    "tweet": "Me voilà donc rentier à l'âge canonique de 32 ans et 6 mois"
+  },
+  "request-491": {
+    "instance": "mastodon.top",
+    "tweet_index": 490,
+    "tweet": "c’est bon, tu m’as compris"
+  },
+  "request-492": {
+    "instance": "mastodon.top",
+    "tweet_index": 491,
+    "tweet": "Ceci est un test. J’espère que ça marche bien.  Ça va, vous ?"
+  },
+  "request-493": {
+    "instance": "mastodon.top",
+    "tweet_index": 492,
+    "tweet": "Une idée pour ce week-end : acheter Le Temps"
+  },
+  "request-494": {
+    "instance": "mastodon.top",
+    "tweet_index": 493,
+    "tweet": "Quand j’en suis à mon troisième article de l’été mais qu’aucun n’a été publié pour l’instant"
+  },
+  "request-495": {
+    "instance": "mastodon.top",
+    "tweet_index": 494,
+    "tweet": "🫠"
+  },
+  "request-496": {
+    "instance": "mastodon.top",
+    "tweet_index": 495,
+    "tweet": "Mon Auguste mère devant un porte-clés de ce personnage : « C’est qui, ça ? C’est Miss Patate ? On dirait une patate ! »"
+  },
+  "request-497": {
+    "instance": "mastodon.top",
+    "tweet_index": 496,
+    "tweet": "Aujourd’hui j’ai découvert la Suisse, ça a l’air sympa"
+  },
+  "request-498": {
+    "instance": "mastodon.top",
+    "tweet_index": 497,
+    "tweet": "J'ai peut-être déjà fait cette blague en 15 ans de présence sur les réseaux sociaux,mais,OOOOH BABY BABY IT'S A"
+  },
+  "request-499": {
+    "instance": "mastodon.top",
+    "tweet_index": 498,
+    "tweet": "Un peu surpris que C8 se fasse éjecter de la TNT avant Cnews, mais tout de même heureux de voir que les actes ont des conséquences"
+  },
+  "request-500": {
+    "instance": "mastodon.top",
+    "tweet_index": 499,
+    "tweet": "J’ai très très téléchargé ce fichier"
+  },
+  "request-501": {
+    "instance": "mastodon.top",
+    "tweet_index": 500,
+    "tweet": "Il est comment votre dimanche ? Moi j’installe Windows XP sur mon iPad"
+  },
+  "request-502": {
+    "instance": "mastodon.top",
+    "tweet_index": 501,
+    "tweet": "Et donc, cette petite dissolution, elle se passe bien ?"
+  },
+  "request-503": {
+    "instance": "mastodon.top",
+    "tweet_index": 502,
+    "tweet": "Quand même très ÉTONNANT que cette personne ait été attirée par les idées du Rassemblement National, je me demande pourquoi 🤔🤔🤔 https://www.francetvinfo.fr/en-direct//message/6683afbe519a3edef7e7c0db.htmlVia @Xerto"
+  },
+  "request-504": {
+    "instance": "mastodon.top",
+    "tweet_index": 503,
+    "tweet": "Je crois que ma future critique de Luigi’s Mansion 2 HD pourrait se limiter à : « c’est Luigi’s Mansion 2 » 🤷"
+  },
+  "request-505": {
+    "instance": "mastodon.top",
+    "tweet_index": 504,
+    "tweet": "En France, jusqu'à dimanche 20 heures, vous n'avez plus la possibilité d'exprimer un message politique. N'étant pas français, je peux. Donc je vais. À titre personnel, bien sûr. 🥰Si vous ne battez pas le RN et ses alliés dimanche, mais aussi le 7 juillet, puis lors des présidentielles de 2027, vous contribuerez à une victoire de Jean-Marie Le Pen. Le pari de la création du Front National (1972) aura alors été réussi. (1/5)"
+  },
+  "request-506": {
+    "instance": "mastodon.top",
+    "tweet_index": 505,
+    "tweet": "Ahaha"
+  }
+}
