@@ -11,7 +11,7 @@ If you use FediData in a scientific publication, we kindly request that you cite
 ```
   @inproceedings{gao2025fedidata,
       title={{FediData: A Comprehensive Multi-Modal Fediverse Dataset from Mastodon}},
-      author={Min Gao and Qiang Duan and Boen Liu and Yu Xiao and Xin Wang and Yang Chen},
+      author={Min Gao and Haoran Du and Wen Wen and Qiang Duan and Xin Wang and Yang Chen},
       year={2025},
       booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM’25)}
   }
