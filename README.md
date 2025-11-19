@@ -13,7 +13,8 @@ If you use FediData in a scientific publication, we kindly request that you cite
       title={{FediData: A Comprehensive Multi-Modal Fediverse Dataset from Mastodon}},
       author={Min Gao and Haoran Du and Wen Wen and Qiang Duan and Xin Wang and Yang Chen},
       year={2025},
-      booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM’25)}
+      booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM’25)},
+      pages = {6372–6376}
   }
 ```
 
