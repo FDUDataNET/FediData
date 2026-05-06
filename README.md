@@ -30,7 +30,7 @@ If you use FediData in a scientific publication, we kindly request that you cite
 
 ```bash
 # Clone the repository
-git clone https://github.com/mgao97/FediData.git
+git clone https://github.com/FDUDataNET/FediData.git
 cd FediData
 pip install requirements.txt
 ```
